@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<volume>
+  <volume-author xml:id="">Christian Orth</volume-author>
+  <volume-title>Fragmenta Comica 10.3: Aristophanes, Aiolosikon–Babylonioi</volume-title>
+  <volume-contents>Vorwort: 1</volume-contents>
+  <preface><head>Vorwort</head><p>Erster Absatz</p></preface>
+  <comic-author xml:id="">
+    <comedy xml:id="">
+      <comedy-title>
+        <ab>Aiolosikon</ab>
+      </comedy-title>
+      <comedy-introduction>
+        <discussions>
+          <head>Diskussionen</head>
+          <biblEntry>Wilamowitz: 123</biblEntry>
+          <biblEntry>Wilamowitz: 123</biblEntry>
+          <biblEntry>Wilamowitz: 123</biblEntry>
+        </discussions>
+        <section n=""><head>Inhalt</head><p>Inhalt</p></section>
+      </comedy-introduction>
+      <comedy-testimonia>
+        <testimonium xml:id="">
+          <testimonium-number>test 1</testimonium-number>
+          <testimonium-text>
+            <testominum-ref>Sudas 123</testominum-ref>
+            <testimonium-original-text><p>καὶ ἐγὼ</p></testimonium-original-text>
+            <testimonium-translation-text><p>ich auch</p></testimonium-translation-text>
+          </testimonium-text>
+          <testimonium-commentary>
+            <discussions>
+              <head>Diskussionene</head>
+              <biblEntry>Wilamowitz: 123</biblEntry>
+            </discussions>
+            <section n="">
+              <p>ich auch</p>
+            </section>
+          </testimonium-commentary>
+        </testimonium>
+      </comedy-testimonia>
+      <comedy-fragments>
+        <fragment type="independant">
+          <fragment-number>fr. 1</fragment-number>
+          <fragment-text>
+            <fragment-original-text>
+              <text><l>κἀγὼ</l></text>
+              <apparatus><note>1. καὶ ἐγώ</note></apparatus>
+            </fragment-original-text>
+            <fragment-translation-text><l>κἀγώ</l></fragment-translation-text>
+          </fragment-text>
+          <citation-context>
+            <citation-context-ref>Suda 123</citation-context-ref>
+            <citation-context-text>  
+              <citation-context-original-text><p>κἀγώ</p></citation-context-original-text>
+              <citation-context-translation><p>ich auch</p></citation-context-translation>
+            </citation-context-text>
+          </citation-context>
+          <metrum><p>Iambic trimeter</p></metrum>
+          <framgent-commentary>
+            <general-commentary>
+              <discussions>
+                <head>Diskussionen</head>
+                <biblEntry>Wilamowitz 123</biblEntry>
+              </discussions>
+              <section n="">
+                <head>metrik</head><p>iambic trimeter</p>
+              </section>
+            </general-commentary>
+          </framgent-commentary>
+        </fragment>
+        <fragment type="in-citation-context">
+          <fragment-number>fr. 1</fragment-number>
+          <fragment-text>
+            <fragment-original-text>
+              <fragment-ref>Suda 123</fragment-ref>
+              <text><p>κἀγώ</p></text>
+              <apparatus><p>1. καὶ ἐγώ</p></apparatus>
+            </fragment-original-text>
+            <fragment-translation>auch ich</fragment-translation>
+          </fragment-text>
+          <metrum><p>iambic trimeter</p></metrum>
+          <framgent-commentary>
+            <general-commentary>
+              <discussions>
+                <head>Discussions</head>
+                <biblEntry>Wilamowitz 123</biblEntry>
+              </discussions>
+              <section n="">
+                <head>metrik</head><p>iambic trimeter</p>
+              </section>
+            </general-commentary>
+          </framgent-commentary>
+        </fragment>
+      </comedy-fragments>
+    </comedy>
+    <appendices>
+      <appendix/>
+    </appendices>
+  </comic-author>
+  <bibliography>
+    <primary-texts>
+      <p/>
+    </primary-texts>
+    <editions-of-citation-contexts>
+      <biblEntry/>
+    </editions-of-citation-contexts>
+    <scholarship>
+      <biblEntry/>
+    </scholarship>
+  </bibliography>
+  <indices>
+    <index-fontium>
+      <indexEntry/>
+    </index-fontium>
+    <index-locorum>
+      <indexEntry/>
+    </index-locorum>
+    <index-verborum>
+      <indexEntry/>
+    </index-verborum>
+    <index-rerum>
+      <indexEntry/>
+    </index-rerum>
+  </indices>
+</volume>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="volume">
+      <element name="volume-author">
+        <attribute>
+          <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+        </attribute>
+        <text/>
+      </element>
+      <element name="volume-title">
+        <text/>
+      </element>
+      <element name="volume-contents">
+        <text/>
+      </element>
+      <element name="preface">
+        <ref name="head"/>
+        <ref name="p"/>
+      </element>
+      <element name="comic-author">
+        <attribute>
+          <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+        </attribute>
+        <element name="comedy">
+          <attribute>
+            <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+          </attribute>
+          <element name="comedy-title">
+            <ref name="ab"/>
+          </element>
+          <element name="comedy-introduction">
+            <ref name="discussions"/>
+            <ref name="section"/>
+          </element>
+          <element name="comedy-testimonia">
+            <element name="testimonium">
+              <attribute>
+                <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+              </attribute>
+              <element name="testimonium-number">
+                <text/>
+              </element>
+              <element name="testimonium-text">
+                <element name="testominum-ref">
+                  <text/>
+                </element>
+                <element name="testimonium-original-text">
+                  <ref name="p"/>
+                </element>
+                <element name="testimonium-translation-text">
+                  <ref name="p"/>
+                </element>
+              </element>
+              <element name="testimonium-commentary">
+                <ref name="discussions"/>
+                <ref name="section"/>
+              </element>
+            </element>
+          </element>
+          <element name="comedy-fragments">
+            <oneOrMore>
+              <element name="fragment">
+                <attribute name="type">
+                  <data type="NCName"/>
+                </attribute>
+                <element name="fragment-number">
+                  <oneOrMore>
+                    <choice>
+                      <text/>
+                      <ref name="ab"/>
+                    </choice>
+                  </oneOrMore>
+                </element>
+                <element name="fragment-text">
+                  <element name="fragment-original-text">
+                    <optional>
+                      <element name="fragment-ref">
+                        <text/>
+                      </element>
+                    </optional>
+                    <element name="text">
+                      <ref name="p"/>
+                    </element>
+                    <element name="apparatus">
+                      <ref name="p"/>
+                    </element>
+                  </element>
+                  <element name="fragment-translation">
+                    <text/>
+                  </element>
+                </element>
+                <optional>
+                  <element name="citation-context">
+                    <element name="citation-context-text">
+                      <element name="citation-context-ref">
+                        <text/>
+                      </element>
+                      <element name="citation-context-original-text">
+                        <ref name="p"/>
+                      </element>
+                      <element name="citation-context-translation">
+                        <ref name="p"/>
+                      </element>
+                    </element>
+                  </element>
+                </optional>
+                <element name="metrum">
+                  <ref name="p"/>
+                </element>
+                <element name="framgent-commentary">
+                  <element name="general-commentary">
+                    <ref name="discussions"/>
+                    <ref name="section"/>
+                  </element>
+                </element>
+              </element>
+            </oneOrMore>
+          </element>
+        </element>
+        <element name="appendices">
+          <element name="appendix">
+            <empty/>
+          </element>
+        </element>
+      </element>
+      <element name="bibliography">
+        <element name="primary-texts">
+          <ref name="p"/>
+        </element>
+        <element name="editions-of-citation-contexts">
+          <ref name="biblEntry"/>
+        </element>
+        <element name="scholarship">
+          <ref name="biblEntry"/>
+        </element>
+      </element>
+      <element name="indices">
+        <element name="index-fontium">
+          <ref name="indexEntry"/>
+        </element>
+        <element name="index-locorum">
+          <ref name="indexEntry"/>
+        </element>
+        <element name="index-verborum">
+          <ref name="indexEntry"/>
+        </element>
+        <element name="index-rerum">
+          <ref name="indexEntry"/>
+        </element>
+      </element>
+    </element>
+  </start>
+  <define name="head">
+    <element name="head">
+      <data type="NCName"/>
+    </element>
+  </define>
+  <define name="p">
+    <element name="p">
+      <text/>
+    </element>
+  </define>
+  <define name="ab">
+    <element name="ab">
+      <text/>
+    </element>
+  </define>
+  <define name="discussions">
+    <element name="discussions">
+      <ref name="head"/>
+      <oneOrMore>
+        <ref name="biblEntry"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="section">
+    <element name="section">
+      <attribute name="n"/>
+      <optional>
+        <ref name="head"/>
+      </optional>
+      <ref name="p"/>
+    </element>
+  </define>
+  <define name="biblEntry">
+    <element name="biblEntry">
+      <text/>
+    </element>
+  </define>
+  <define name="indexEntry">
+    <element name="indexEntry">
+      <empty/>
+    </element>
+  </define>
+</grammar>
