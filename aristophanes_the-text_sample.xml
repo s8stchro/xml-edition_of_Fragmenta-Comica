@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<volume xml:id="10.3">
+  <volume-author xml:id="#christian_orth"/>
+  <volume-title/>
+  <volume-contents/>
+  <preface>Vorwort</preface>
+  <comic-author xml:id="Aristophanes">
+    <name/>
+    <introduction>
+      <p/>
+    </introduction>
+    <comedy xml:id="Aiolosikon">
+      <comedy-title>
+        <ab>Αἰολοσίκων α´ β´(Aiolosikon protos &amp; deuteros)</ab>
+        <ab>("Aiolosikon I und II")</ab> </comedy-title>
+      <comedy-introduction>
+        <discussions>
+          <head>Diskussionen</head>
+          <biblEntry>Toup 1760, 6–8</biblEntry>
+          <biblEntry>Brunck 1783, III 209</biblEntry>
+          <biblEntry>Toup 1790, I 14–7</biblEntry>
+          <biblEntry>Schweighaeuser, Animadv. IX (1807) 53</biblEntry>
+          <biblEntry>Grauert 1828, 59–63. 499–502</biblEntry>
+          <biblEntry>Grysar 1828, 235–6</biblEntry>
+          <biblEntry>Dindorf 1829, 80–1 (~ Dindorf 1835, 561–2, Dindorf 1838a, 463)</biblEntry>
+          <biblEntry>Hermann 1829, 1618–20</biblEntry>
+          <biblEntry>Welcker 1830, 459–60 (= Welcker 1844, 324–5)</biblEntry>
+          <biblEntry>Ritter 1830, 795–6</biblEntry>
+          <biblEntry>Welcker 1839, 871–2</biblEntry>
+          <biblEntry>Bergk ap. Meineke II.2 (1840) 900–1. 940–3 (vgl. Meineke V.1 (1857) 58)</biblEntry>
+          <biblEntry>Bothe 1844b, 8–10</biblEntry>
+          <biblEntry>Holden 1868, 704</biblEntry>
+          <biblEntry>Dindorf 1869, IV 192</biblEntry>
+          <biblEntry>Lessing 1877, 11. 24</biblEntry>
+          <biblEntry>Kock I (1880) 392</biblEntry>
+          <biblEntry>Blaydes 1885, 1–3</biblEntry>
+          <biblEntry>Zielinski 1885, 37–40 mit 69–71 Anm. 31 (~ Zielinski 1931, 47–9. 73–4)</biblEntry>
+          <biblEntry>Kaibel 1895b, 983,27–40</biblEntry>
+          <biblEntry>Blaydes 1896, 296–7</biblEntry>
+          <biblEntry>Kent 1906</biblEntry>
+          <biblEntry>Rogers 1907, xxiii–xxvii</biblEntry>
+          <biblEntry>Moessner 1907, 66–7</biblEntry>
+          <biblEntry>Oellacher 1916, 149–51</biblEntry>
+          <biblEntry>Wilamowitz-Moellendorff 1921, 396 Anm. 2</biblEntry>
+          <biblEntry>Geißler 1925, 76–7</biblEntry>
+          <biblEntry>Norwood 1931, 42</biblEntry>
+          <biblEntry>Murray 1933, 207–8</biblEntry>
+          <biblEntry>Schmid 1946, 221</biblEntry>
+          <biblEntry>Webster 1953, 18 (= Webster 1970, 18)</biblEntry>
+          <biblEntry>Edmonds I (1957) 572–3 Anm. b</biblEntry>
+          <biblEntry>Giannini 1960, 149–50</biblEntry>
+          <biblEntry>Russo 1962, 48–9</biblEntry>
+          <biblEntry>Dohm 1964, 58 Anm. 1</biblEntry>
+          <biblEntry>Handley 1965, 287–8 ad Men. Dysc. 889</biblEntry>
+          <biblEntry>Rau 1967, 209</biblEntry>
+          <biblEntry>Geißler 1969, xviii</biblEntry>
+          <biblEntry>Gelzer 1970, 1407,36–38. 1412,53–13,22. 1414,46–7. 51</biblEntry>
+          <biblEntry>Kassel 1978, 56–7 (= Kassel 1991, 266–7)</biblEntry>
+          <biblEntry>Hunter 1979, 33–4</biblEntry>
+          <biblEntry>Kassel / Austin, PCG III.2 (1984) 34</biblEntry>
+          <biblEntry>Handley 1985, 400</biblEntry>
+          <biblEntry>Degani 1987, 45–7</biblEntry>
+          <biblEntry>Perusino 1987, 61–4. 71–2</biblEntry>
+          <biblEntry>Perusino 1989, 50–2</biblEntry>
+          <biblEntry>Gil 1989, 51–2 (= Gil 2010, 79–80)</biblEntry>
+          <biblEntry>Nesselrath 1990, 33. 53. 192. 204 Anm. 82. 235–6 Anm. 155. 302</biblEntry>
+          <biblEntry>Sutton 1990, 88–9. 93</biblEntry>
+          <biblEntry>Mastromarco 1994a, 80. 81</biblEntry>
+          <biblEntry>Carrière 2000, 202</biblEntry>
+          <biblEntry>Henderson 2000, 137 mit 149 Anm. 7</biblEntry>
+          <biblEntry>Wilkins 2000, 317–8. 376</biblEntry>
+          <biblEntry>Casolari 2003, 175–6</biblEntry>
+          <biblEntry>Mangidis 2003, 71–3</biblEntry>
+          <biblEntry>Brockmann 2003, 332–42</biblEntry>
+          <biblEntry>Henderson 2007, 111 (~ Henderson ap. Rusten 2011, 281)</biblEntry>
+          <biblEntry>Bowie 2007, 197</biblEntry>
+          <biblEntry>Ornaghi 2007, 49–50</biblEntry>
+          <biblEntry>Collard / Cropp 2008a, 14–5</biblEntry>
+          <biblEntry>Sommerstein 2009, 272–88</biblEntry>
+          <biblEntry>Sommerstein 2010, 403 Anm. 14</biblEntry>
+          <biblEntry>Zimmermann 2011, 780</biblEntry>
+          <biblEntry>Konstantakos 2011, 149–51</biblEntry>
+          <biblEntry>Mimidou 2013, 18</biblEntry>
+          <biblEntry>Xanthaki-Karamanou / Mimidou 2014, 51</biblEntry>
+          <biblEntry>Pellegrino 2015, 39–40</biblEntry>
+          <biblEntry>Halliwell 2015, 235–6</biblEntry>
+        </discussions>
+        <section n="title">
+          <head>Titel</head>
+          <p>Der erste und zweite Aiolosikōn des Aristophanes sind die einzigen bekannten Stücke mit diesem aus den Namen Aiolos und Sikon zusammengesetzten Titel. Komödien mit dem Titel Αἴολος sind für Antiphanes und Eriphos bezeugt, gleichnamige Tragödien für Euripides (fr. 13a–41 Kn. [TrGF V.1 158–73]) und Lykophron (erste Hälfte des 3. Jh. v. Chr.; TrGF 100 T 3). Ähnliche zusammengesetzte Komödientitel sind Ἀνθρωπορέστης (Strattis), Ἀνθρωφηρακλῆς (Pherekrates), Δημοσάτυροι (Timokles), Δημοτυνδάρεως (Poly­zelos), Διονυσαλέξανδρος (Kratinos), Θουριοπέρσαι (Metagenes), Κωμῳ­­δοτ­ραγῳδία (Alkaios, Anaxandrides), Μανέκτωρ (Menekrates), Μυρμηκ­άνθρωποι (Pherekrates), Ὀρεσταυτοκλείδης (Timokles), Σφιγγοκαρίων (Eu­bu­los), Τιτανόπανες (Myrtilos). Diese Titel deuten auf eine doppelte Identität, z. B. durch Verkleidung, Verwandlung oder Übernahme einer anderen Rolle (vgl. auch Ar. Ran. 499 τὸν Ἡρακλειοξανθίαν), und oft stammt (wie im Fall von Αἰολοσίκων) ein Bestandteil aus dem All­tagsleben, der andere aus dem Mythos (vgl. besonders Δημοτυνδάρεως [Demos + Tyndareos], Μανέκτωρ [der Sklavenname Manes und Hektor], Ὀρεσταυτοκλείδης [Orestes und Autokleides], Σφιγγοκαρίων [Sphinx und der Sklavenname Karion]; mit einer solchen Verbindung sind vielleicht auch Titel wie Ἀνθρωπορέστης [ἄνθρωπος + Orestes] und Ἀνθρωφηρακλῆς [ἄνθρωπος + Herakles] zu erklären).</p>
+          <p>Der erste Teil der Zusammensetzung, Αἴολος, ist der Name von zwei my­thischen Figuren, die in Euripides’ Aiolos, der wichtigsten Darstellung dieses Stoffs in klassischer Zeit (und wahrscheinlichen direkten Vorlage für Aristo­phanes’ Komödie, vgl. unten S. 16), offenbar miteinander vermengt werden (vgl. Gantz 1993, 167–8. 169. 703–4): </p>
+          <p>1. der in Hesiods Katalogos (fr. 9. 10a,25–34 M.-W. = fr. 9. 10,25–34 Most) genannte Sohn des Hellen (und damit Enkel von Deukalion oder Zeus und Pyrrha), der (nach Apollod. 1,49–50 = 1,7,3) mit seiner Frau Enarete sieben Söhne und fünf Töchter hatte (erhalten sind im Katalogos die Namen der Söhne Kretheus, Athamas, Sisyphos, Salmoneus und Perieres, und der Töchter Peisidike, Alkyone und Perimede; Apollodor nennt als Namen der beiden übrigen Söhne Deion und Magnes, und als Namen der beiden übrigen Töchter Kalyke und Kanake).</p>
+          <p>2. der Sohn des Hippotes, der Hüter der Winde, dem Odysseus zu Beginn des 10. Buchs der Odyssee begegnet, vgl. Hom. Od. 10,1–12 Αἰολίην δ’ ἐς νῆσον ἀφικόμεθ’· ἔνθα δ’ ἔναιον / Αἴολος Ἱπποτάδης, φίλος ἀθανάτοισι θεοῖσι, / πλωτῇ ἐνὶ νήσῳ· πᾶσαν δέ τέ μιν πέρι τεῖχος / χάλκεον ἄρρηκτον, λισσὴ δ’ ἀναδέδρομε πέτρη. / (5) τοῦ καὶ δώδεκα παῖδες ἐνὶ μεγάροις γεγάασιν, / ἓξ μὲν θυγατέρες, ἓξ δ’ υἱέες ἡβώοντες. / ἔνθ’ ὅ γε θυγατέρας πόρεν υἱάσιν εἶναι ἀκοίτις. / οἱ δ’ αἰεὶ παρὰ πατρὶ φίλῳ καὶ μητέρι κεδνῇ / δαίνυνται· παρὰ δέ σφιν ὀνείατα μυρία κεῖται, / (10) κνισῆεν δέ τε δῶμα περιστεναχίζεται αὐλῇ / ἤματα· νύκτας δ’ αὖτε παρ’ αἰδοίῃς ἀλόχοισιν / εὕδουσ’ ἔν τε τάπησι καὶ ἐν τρητοῖσι λέχεσσι („Und wir kamen zur aiolischen Insel. Dort aber wohnte Aiolos der Sohn des Hippotas, den unsterblichen Göttern lieb, auf einer schwimmenden Insel. Sie war ganz umgeben von einer undurchbrechlichen ehernen Mauer, und glatte Felsen ragten steil nach oben. (5) Er hat zwölf Kinder in seinem Palast, sechs Töchter und sechs Söhne, die in der Blüte des Lebens stehen. Daher gab er die Töchter seinen Söhnen zur Frau. Diese aber speisen immer bei ihrem Vater und der vertrauten Mutter, und bei ihnen liegen unzählige Gaumenfreuden, (10) und das fettduftende Haus hallt tagsüber im Hof wider. Nachts wiederum schlafen sie bei ihren ehrwürdigen Frauen auf Decken und in mit Bohrungen versehenen Betten“). Odysseus hält sich bei ihm einen Monat lang auf und erzählt ihm die ganze Geschichte vom Trojanischen Krieg und der Rückkehr der Griechen, und bei seiner Abreise gibt ihm Aiolos einen Schlauch mit, in dem die Winde eingeschlossen sind, und schickt ihm zugleich günstigen Westwind (Hom. Od. 10,13–27).</p>
+          <p>Euripides’ Aiolos (fr. 13a–41 Kn.; vgl. insgesamt Kannicht 2004, 158–162, Collard / Cropp 2008a, 12–5, Mimidou 2013, Xanthaki-Karamanou / Mimidou 2014) folgt der homerischen Darstellung mit der Verheiratung der Kinder des Aiolos untereinander, entnimmt aber den Namen der Kanake (und des Salmoneus, fr. 14 Kn.) offenbar dem Katalog der Kinder von Aiolos, dem Sohn des Hellen. Hinzu kommt bei ihm eine tragische Verwicklung, von der bei Homer noch keine Spur zu erkennen ist. Die wichtigste Quelle für die Kenntnis des Inhalts von Euripides’ Aiolos ist der 1962 veröffentlichte Anfang einer Hypothesis des Stücks (P.Oxy. 2457 = Eur. Αἴολος test. ii Kn.), die hier nach TrGF V 158 wiedergegeben wird:</p>
+          <p>Vgl. auch Schol. Ar. Nub. 1372a und Tzetz. ad 1371a (= Eur. Αἴολος test. iva Kn.).</p>
+          <p>Der weitere Verlauf der Handlung ist nicht in allen Details klar und kann nur aus weiteren Quellen rekonstruiert werden, deren Bezug auf Euripides wahrscheinlich, aber gerade in einzelnen Details nicht sicher ist: Bei oder nach der Geburt entdeckt Aiolos die Verfehlung der Kanake, befiehlt, das Kind auszusetzen, schickt Kanake ein Schwert, mit dem sie Selbstmord begehen soll, und wird dann von Makareus angefleht, sie zu begnadigen (vgl. Sostratos FGrHist 23 F 3 ap. Stob. 4,20,72 Μακαρεὺς δὲ τὸν γεννήσαντα προεξιλεωσάμενος ἔδραμεν εἰς τὸν θάλαμον). Eine um 410 v. Chr. entstandene protolukanische Hydria (Bari 1535, LIMC Aiolos 1 = LIMC Kanake 1, Eur. Αἴολος test. vi Kn.) zeigt Kanake mit dem Schwert in der Hand auf ihrem Bett liegend und daneben, wie Aiolos zu dem gefesselten Makareus spricht und zugleich mit seinem Stock auf ihn weist, während vielleicht Makareus’ Fesseln schon gelöst werden (vgl. Kannicht 2004, 160). Makareus könnte also im letzten Moment Aiolos überzeugt haben, Kanake zu begnadigen; aber als er dann zu ihrem Gemach rennt, findet er sie bereits tot vor und begeht mit demselben Schwert Selbstmord, mit dem sich auch Kanake getötet hat (Sostratos FGrHist 23 F 3 ap. Stob. 4,20,72). Wie das Stück endete, ist unbekannt: Vielleicht trat am Ende ein Gott auf, der z. B. die Ehen der Geschwister für diesen einen Fall anerkannt, ansonsten aber eine Aitiologie für die attische Rechtslage geliefert und / oder die Zukunft von Triopas, dem Sohn von Makareus und Kanake, verkündet haben könnte (vgl. mit weiterer Literatur Mülke 1996, 52–3).</p>
+          <p>Die Fragmente von Euripides’ Stück liefern noch einige weitere Hinweise: Der erhaltene erste Vers ἦ δεινὰ καὶ δύσγνωστα βουλεύει θεός (fr. 13a Kn.) zeigt, dass zu Beginn kein Gott sprach; als Prologsprecher, der über die nötigen Vorkenntnisse verfügte, kommt besonders Kanakes Amme in Frage (vgl. Webster 1967, 158). fr. 19–22 Kn. stammen wahrscheinlich aus der Szene, in der Makareus Aiolos davon überzeugt, seine Kinder untereinander zu verheiraten. fr. 20–22 Kn. zeigen, dass in den Argumenten auch der Reichtum eine Rolle spielte und Aiolos’ Familie als reich dargestellt wurde (vgl. fr. 21,6 Kn. ἃ δ’ οἱ πλουτοῦντες οὐ κεκτήμεθα). Der Chor bestand aus Mädchen (fr. 18 Kn.; vgl. Kannicht 2004, 162). Vgl. mit weiterer Literatur Pellegrino 2015, 39–40.</p>
+          <p>Euripides’ Aiolos lässt sich aufgrund der metrischen Gestalt der Trimeter nur grob in die Zeit zwischen 455 und 421 v. Chr. (Cropp / Fick 1985, 70. 71–2) datieren. Aus Ar. Nub. 1370–3 (= Eur. Αἴολος test. iva Kn.) ergibt sich zudem ein terminus ante quem von etwa 420–416 v. Chr. (vgl. zum Aufführungsdatum der erhaltenen zweiten Wolken zuletzt Zimmermann 2011, 771–2).</p>
+          <p>Aristophanes nimmt in den erhaltenen Komödien mehrfach auf Euripides’ Aiolos Bezug (vgl. Kassel / Austin, PCG III.2 (1984) 34, Mangidis 2003, 72 mit Anm. 229, Austin / Olson 2004, 116, Mimidou 2013, 18–9, Xanthaki-Kara­manou / Mimidou 2014, 51): So spielen Ar. Nub. 1371–2 ὁ δ’ εὐθὺς ἦγ’ Εὐριπίδου ῥῆσίν τιν’, ὡς ἐκίνει / ἁδελφός ... τὴν ὁμομητρίαν ἀδελφήν, Ran. 850 (über Euripides) γάμους δ’ ἀνοσίους εἰσφέρων εἰς τὴν τέχνην und 1081 καὶ μειγνυμέναις τοῖσιν ἀδελφοῖς auf die inzestuöse Liebe von Makareus und Kanake an, Euripides selbst nennt bei Ar. Ran. 863 neben drei weiteren Titelhelden seiner Komödien auch Aiolos, und einzelne Stellen des Aiolos werden aufgegriffen bei Ar. Thesm. 177–8 Ἀγάθων, σοφοῦ πρὸς ἀνδρός, ὅστις ἐν βραχεῖ / πολλοὺς καλῶς οἷός τε συντέμνειν λόγους (~ Eur. fr. 28 Kn. παῖδες, σοφοῦ πρὸς ἀνδρός, ὅστις ἐν βραχεῖ / πολλοὺς καλῶς οἷός τε συντέμνειν λόγους), Ran. 1475 τί δ’ αἰσχρόν, ἢν μὴ τοῖς θεωμένοις δοκῇ; (~ Eur. fr. 19 Kn. τί δ’ αἰσχρόν, ἢν μὴ τοῖσι χρωμένοις δοκῇ), und vielleicht auch Pac. 114–5 ὦ πάτερ, ὦ πάτερ, ἆρ’ ἔτυμός γε / δώμασιν ἡμετέροις φάτις ἥκει (~ Eur. fr. 17 Kn. ἆρ’ ἔτυμον φάτιν ἔγνων / Αἴολος εὐνάζειν τέκνα φίλτατα) und 119 δοξάσαι ἔστι, κόραι. τὸ δ’ ἐτήτυμον, ἄχθομαι ὑμῖν (~ Eur. fr. 18 Kn. δοξάσαι ἔστι, κόραι· τὸ δ’ ἐτήτυμον οὐκ ἔχω εἰπεῖν). </p>
+          <p>In den Fragmenten der beiden Aiolos-Komödien von Eriphos und Anti­phanes spielt der Weingenuss eine wichtige Rolle (vgl. Nesselrath 1990, 205–9, Mangidis 2003, 73–82, Mimidou 2013, 19–20, Orth 2014b, 1001. 1016–7): Bei Eriph. fr. 1 spricht ein Sohn zu seinem Vater über die Wirkung des Weingenusses auf alte Männer, die durch ihn, ohne es zu wollen, zum Tanzen gebracht werden. Die Annahme ist naheliegend, dass hier Makareus zu Aiolos spricht; unklar bleibt aber, ob der Sohn damit seinen Fehltritt als durch den Wein verursacht entschuldigen will (Mangidis 2003, 73–4) oder aber seinen Vater vor der Trunkenheit warnt (vgl. Orth 2014b, 1001). Antiph. fr. 19 beschreibt im Stil eines euripideischen Prologs, wie der in seine Schwester verliebte Makareus diese vergewaltigt (wobei der Wein eine wichtige Rolle spielt). Der dicke Mann, der nach fr. 20 (vielleicht ebenfalls aus dem Prolog?) von den Einheimischen wegen seiner Trinkfreudigkeit und Leibesfülle ἀσκός („Weinschlauch“) genannt wird, könnte Makareus sein (Nesselrath 1990, 208), vielleicht noch wahrscheinlicher aber Aiolos selbst, der schon bei Homer Odysseus einen als ἀσκός (Od. 10,19) bezeichneten Schlauch mit den Winden mitgibt (Mangidis 2003, 78–80).</p>
+          <p>Der zweite Teil der Zusammensetzung, Σίκων, ist der Name eines Sklaven bei Ar. Eccl. 867 und Alex. fr. 25,4 (aus dem vielleicht unechten Asōtodidaskalos), und eines gemieteten Kochs in Menanders Dyskolos (393–426. 487–521. 620–65. 889–918). Sosipat. fr. 1,13–14 nennt im 3. Jh. v. Chr. einen Sikon (der sich allerdings nicht näher datieren lässt) als ἀρχηγός der Kochkunst: τὸ διδασ­καλεῖον ἡμεῖς σῴζομεν / τὸ Σίκωνος· οὗτος τῆς τέχνης ἀρχηγὸς ἦν. Dieser habe von einem Koch eine umfassende Bildung verlangt, die auch Astronomie, Architektur, Physik und Kriegskunst einschloss (Vers 15–9). Unklar ist die Identität eines der Sprecher bei Eub. fr. 123, der sich mit seinem Namen vorstellt und erklärt, er habe Mendaierwein getrunken. Vgl. zu den Komödienfiguren mit dem Namen Sikon insgesamt Handley 1965, 287–8 ad Men. Dysc. 889, Gomme / Sandbach 1973, 131, Arnott 1996, 825 ad [Alex.] fr. 25,4. </p>
+        </section>
+        <section n="content">
+          <head>Inhalt</head>
+          <p>Auch wenn eine Rekonstruktion der Handlung des Aiolosikōn nicht möglich ist, können doch aus dem Titel und den Fragmenten mit einiger Wahrscheinlichkeit zumindest einzelne inhaltliche Element erschlossen werden. Schon Grauert 1828, 59–63 erklärt den Titel als Zusammensetzung von Aiolos und Sikon und vermutet, dass sich der Titel auf einen Charakter bezieht, der eine Kombination aus beiden darstellt. Aiolos wird allgemein mit dem Titelhelden der gleichnamigen euripideischen Tragödie in Verbindung gebracht (so zuerst Grauert 1828, 60), während Sikon häufiger mit dem von Sosipat. fr. 1,13–14 genannten Archegeten der Kochkunst identifiziert wird (so zuerst Grauert 1828, 60). Meist wird dabei angenommen, dass Sikon in der Rolle des mythischen Aiolos dargestellt wurde (vgl. aber Ornaghi 2007, 48–9, der bemerkt, dass die Richtung der Verwandlung nicht sicher bestimmt werden kann). Zu der Parodietechnik, bei der der mythische Stoff in die Alltagswelt versetzt wird, vgl. besonders Webster 1953, 18. In den zahlreichen Diskussionen (vgl. den Anhang S. 543–50) werden die einzelnen Fragmente in unterschiedlicher Weise mit dem Aiolosmythos und / oder dem Koch Sikon in Verbindung gebracht (vgl. z. B. Grauert 1828, 499–502, Welcker 1830, 459–60, Bergk ap. Meineke II.2 (1840) 940–9, Bothe 1844b, 8–14, Kock I (1880) 392–6, Zielinski 1885, 37–40, Rogers 1907, xxiv–vi, Webster 1953, 18, Perusino 1987, 62–4. 71–2, Gil 1989, 51–2, Carrière 2000, 202, Casolari 2003, 175–6, Mangidis 2003, 71–3, Konstantakos 2011, 149–51). Die Figur des Kochs diskutiert Handley 1964, 287–8, die kulinarischen Elemente Degani 1987, 45–7. Wiederholt wird Luxuskritik als Motiv des Stücks vermutet (Bergk ap. Meineke II.2 (1840) 943, Kock I (1880) 392, Moessner 1907, 66–7), aber auch bemerkt, dass insbesondere fr. 6 auf eher ärmliche Lebensumstände des Sikon weist (vgl. z. B. Nesselrath 1990, 235–6 Anm. 155, Carrière 2000, 202, Casolari 2003, 176 Anm. 24). Ein größeres Problem stellt die Rolle des Chors in dem Stück dar, da nach Platonios (test. v) im Aiolosikōn Chorlieder ganz fehlten, mehrere Fragmente aber wahrscheinlich dem Chor zuzuweisen sind (vgl. besonders die Diskussionen von Perusino 1987, 63–72, Perusino 1989, 50–2, Sommerstein 2009, 272–88, Sommerstein 2010, 403 Anm. 14). </p>
+          <p>Aus dem Titel und den Fragmenten ergeben sich für den Inhalt des Aiolosikōn im einzelnen die folgenden Anhaltspunkte:</p>
+          <p>1. Der zusammengesetzte Titel ist am einfachsten zu erklären, wenn eine einzige Person in irgendeiner Weise zugleich Aiolos und Sikon war. Die beiden Elemente der Zusammensetzung verbinden dabei die Ebene des Mythos mit derjenigen der zeitgenössischen Alltagswelt, und zugleich zwei Figuren von ganz unterschiedlichem sozialen Status. Eine einfache Erklärung für die Zusammensetzung wäre, dass der Mythos in die zeitgenössische Alltagswelt versetzt wurde und anstelle des Aiolos ein Charakter mit dem Namen Sikon im Mittelpunkt stand.</p>
+          <p>2. Für den Mythos des Aiolos orientierte sich Aristophanes wahrscheinlich besonders an Euripides’ Aiolos. Dafür spricht, dass (1) bei Platonios (= test. v) ausdrücklich davon die Rede ist, dass der Aiolosikōn eine Tragödie mit dem Titel Αἴολος verspottet, (2) keine andere Tragödie mit diesem Titel aus klassischer Zeit bekannt ist, (3) Aristophanes schon in früheren Stücken mehrfach auf Euripides’ Aiolos Bezug nimmt (vgl. oben zum Titel, S. 13), (4) der Aiolosikōn in fr. 1 (~ Eur. Hec. 1–2) noch ein weiteres euripideisches Stück aufgreift, (5) Euripides überhaupt die bevorzugte tragische Zielscheibe des Aristophanes ist, und sich Bezüge auf Euripides auch noch lange nach dessen Tod z. B. bei Eubulos finden. </p>
+          <p>3. Das zentrale Handlungselement des euripideischen Aiolos, mit dem auch die meisten sonstigen Bezüge auf den Aiolos bei Aristophanes in Verbindung stehen und das sehr wahrscheinlich auch im Aiolosikōn eine Rolle gespielt hat, ist die inzestuöse Liebe von Aiolos’ Sohn Makareus zu seiner Schwester Kanake und die Verheiratung von Aiolos’ Söhnen und Töchtern miteinander (vgl. auch Nr. 4). Die romantische Liebe von Makareus und Kanake ist allerdings in den Fragmenten des Aiolosikōn nicht mehr direkt erkennbar, und es bleibt unklar, ob und in welcher Form Aristophanes die damit verbundene tragische Handlung aufgriff.</p>
+          <p>4. fr. 6, wo davon die Rede ist, dass in der Zukunft für eine Gruppe von Frauen ein einziges Schlafzimmer und ein einziges Bad genügen wird, lässt sich gut auf die Töchter des Aiolos beziehen und mit ihrer (im Moment des Fragments zukünftigen) Verheiratung mit Aiolos’ Söhnen in Verbindung bringen. In diesem Fall wird hier vielleicht ein ökonomisches Argument für eine solche Hochzeit vorgebracht.</p>
+          <p>5. Dass Geldmangel und Armut in dem Stück eine Rolle spielen (und vielleicht sogar das auslösende Moment für die inzestuöse Hochzeit sind), scheint auch aus fr. 3 und fr. 14 hervorzugehen (und vgl. auch zu fr. 8). Damit greift Aristophanes zugleich ein gerade um 386 v. Chr. sehr aktuelles Thema auf (die schwierige wirtschaftliche Situation in den 390er und frühen 380er Jahren wird schon in Aristophanes’ Ekklesiazusen und besonders im Plutos reflektiert, und die Lage dürfte sich unmittelbar vor dem Antalkidasfrieden aufgrund der Seeblockade noch einmal verschärft haben). </p>
+          <p>6. Wenn das Stück die Verheiratung der Söhne und Töchter des Aiolos untereinander behandelte, dann entsteht eine interessante Parallele zu den Ekklesiazusen, in denen mit der Frauengemeinschaft ebenfalls (und, wie vielleicht auch hier, letztlich als Reaktion auf die Armut) eine utopische Neuordnung des Sexuallebens durchgeführt wird (vgl. Ar. Eccl. 613–43).</p>
+          <p>7. Sikon könnte ein Sklave sein, aber vielleicht noch wahrscheinlicher ein Koch. Dafür spricht nicht nur, dass ein Sikon von Sosipat. fr. 1,13–4 als ἀρχηγός der Kochkunst genannt wird, und auch in Menanders Dyskolos ein Koch mit diesem Namen auftritt, sondern auch direkte Bezüge auf die Zubereitung von Speisen (fr. 4, wo der Sprecher sagt, dass er selbst ἀκροκώλια gekocht habe, und vgl. auch fr. 5) und Küchengeräte (fr. 7). Zudem könnte Sikons Name an den sizilischen Ursprung der Kochkunst erinnern, und schon die homerische Beschreibung vom Leben am (im fernen Westen lokalisierten) Palast des Aiolos enthält so deutliche kulinarische Elemente (Hom. Od. 10,8–11), dass es für einen Komödiendichter ein eher kleiner Schritt war, Aiolos direkt zu einem Koch zu machen. Nicht auszuschließen ist auch, dass der von Sosipater als ἀρχηγός der Kochkunst genannt Sikon mit dem Titelhelden identisch ist, entweder weil dieser eine historische zeitgenössische Person war, oder weil sich Sosipater selbst – vielleicht anlässlich einer Wiederaufführung – auf den aristophanischen Charakter bezieht oder dieser überhaupt am Anfang der komischen Tradition von Köchen mit dem Namen Sikon steht. </p>
+          <p>8. In der späteren Komödie tauchen Köche regelmäßig als Nebenfiguren auf, doch gibt es dafür in den 380er Jahren noch keine sicheren Hinweise. Vielleicht ist der Titelheld des Aiolosikōn sogar der erste Koch, der in der attischen Komödie überhaupt auftritt. Es gibt somit keinen Grund, auch für Sikon (wenn es sich um einen Koch handelt) eine solche Nebenrolle anzunehmen; die Gleichsetzung mit Aiolos spricht eher dagegen. Ob dabei aber Sikon eine ähnlich positive Figur war wie die komischen Helden in früheren Komödien des Aristophanes oder in seiner Darstellung satirisch-kritische Elemente überwogen (was gerade im Kontext einer Parodie des Aiolos oder bei einem Bezug auf einen historischen Koch namens Sikon plausibel wäre), muss offenbleiben.</p>
+          <p>9. Die Figur eines Kochs eignete sich auch besonders gut, um die schwierige wirtschaftliche Situation um 386 v. Chr. zu reflektieren, da ein Koch natürlich besonders direkt von der Seeblockade (durch die viele Lebensmittel nicht verfügbar waren) und die damit zusammenhängende Armut (die dazu führt, dass er weniger Aufträge bekommt) betroffen war.</p>
+          <p>10. Neben Euripides’ Aiolos könnte Aristophanes’ Aiolosikōn auch die Schilderung des Lebens am Palast des Aiolos am Anfang des 10. Buchs der Odyssee aufgreifen. In diesem Fall kontrastierte die Armut des Sikon vielleicht wirkungsvoll mit dem Reichtum des Aiolos bei Homer.</p>
+          <p>11. In fr. 2 verspricht ein Mann einer Frau (vielleicht seiner Frau), alle Einkäufe zu erledigen, die sie ihm aufträgt. Der Eifer dieses Mannes (vielleicht des Sikon selbst) lässt hier keine Sorge um Geldmangel erkennen. Wenn die Annahme richtig ist, dass in dem Stück Armut eine Rolle spielte und auch der Titelheld davon betroffen war, dann könnte man vermuten, dass sich entweder die wirtschaftliche Sitatuation des Sikon im Verlauf des Stücks ändert, oder hier Vorbereitungen für ein Ereignis (etwa eine Hochzeit) getroffen werden, deren wirtschaftliche Vorteile als so groß erscheinen, dass demgegenüber kurzfristige Ausgaben unerheblich sind.</p>
+          <p>12. Wenn man aus fr. 12 tatsächlich erschließen kann, dass in dem Stück ein die ganze Nacht dauerndes Gastmahl vorkam, dann könnte dieses z. B. das für die Söhne und Töchter des Aiolos / Sikon ausgerichtete Hochzeitsmahl sein oder ein Festmahl, das stattfindet, nachdem sich die finanzielle Lage des Sikon unverhofft zum Guten gewendet hat. </p>
+          <p>13. Auch Herakles hatte wahrscheinlich einen Auftritt in diesem Stück, und zwar in seiner typischen Rolle als γαστρίμαργος (fr. 11). Herakles spielt im Aiolosmythos keine Rolle; aber in einer Komödie, in der Reichtum und Armut vielleicht gerade auch in einem kulinarischen Zusammenhang thematisiert wurden, bot sich sicherlich genügend Gelegenheit für einen Auftritt des hungrigen und / oder gefräßigen Helden, z. B. bei einem Gastmahl (wenn dieses aus fr. 12 erschlossen werden kann, vgl. zu Nr. 11).</p>
+          <p>14. Die drei lyrischen Fragmente (besonders fr. 9, und vielleicht auch fr. 8 und 10) sind wahrscheinlich dem Chor zuzuweisen (trotz der Behauptung des Platonios, dass der Aiolosikōn keine Chorlieder enthalten habe; vgl. unten zu test. v). Dieser bestand, wie fr. 9 zeigt, aus Frauen oder Mädchen (vgl. den Chor von Euripides’ Aiolos, der aus Mädchen bestand; vgl. fr. 18 Kn.). Inhaltlich enthalten diese Fragmente Elemente der Frauensatire, wie sie von Aristophanes schon früher speziell mit Euripides in Verbindung gebracht werden (zu fr. 9, wo die Frauen selbst die gegen sie Vorwürfe gerichteten Vorwürfe bestätigen, vgl. besonders Ar. Lys. 137 und Ar. Thesm. 466–519). Es ist denkbar, dass fr. 9 zugleich auch auf die inzestuöse Hochzeit Bezug nimmt, die in diesem Fall vielleicht (anders als bei Euripides) hauptsächlich auf Initiative von Frauen (z. B. der Frau des Aiolos oder seiner Töchter) zustande kam (vgl. die ebenfalls von Frauen unter der Führung der Praxagora initiierte Neuordnung des Sexuallebens der Athener in den Ekklesiazusen, 613–50; vgl. oben Nr. 6).</p>
+        </section>
+        <section n="other-possible-fragments">
+          <head>Weitere mögliche Fragmente</head>
+          <p>Weitere Fragmente, die in einigen früheren Diskussionen dem Aiolosikōn zugewiesen werden, sind Ar. fr. 715 ὅστις ἐν ἡδυόσμοις / στρώμασι παννυχίζων / τὴν δέσποιναν ἐρείδεις (aufgrund der metrischen Ähnlichkeit mit fr. 9, vgl. z. B. Dindorf 1829, 84, Bergk ap. Meineke II.2 (1840) 948. 1178, Kock I (1880) 396, Perusino 1987, 64, Perusino 1989, 51; vgl. aber mit inhaltlichen Gründen gegen eine Zuweisung zum Aiolosikōn Sommerstein 2009, 278 Anm. 27) und Xenophan. 21 B 42 DK = Ar. fr. 9 K. καί ⟨κ’⟩ ἐπιθυμήσειε νέος νῆς ἀμφιπόλοιο (überliefert mit der Herkunftsangabe παρὰ Ἀριστοφάνει ἐν δινσίλλων; vgl. Dindorf 1823, vi, Dindorf 1829, 85–6, Bergk ap. Meineke II.2 (1840) 947, Bothe 1844b, 13–4, Holden 1868, 705, Kock I (1880) 395, Blaydes 1885, 6, Zielinski 1885, 38. 70, Edmonds I (1957) 574–5 mit Anm. c; die Herkunftsangabe lässt sich aber viel wahrscheinlicher zu παρὰ Ξενοφάνει ἐν δ´ Σιλλῶν als zu παρὰ Ἀριστοφάνει ἐν Αἰολοσίκωνι korrigieren, vgl. Kassel 1983, 49–51). Keine größere Resonanz gefunden hat dagegen die Vermutung von Bergk ap. Meineke II.2 (1840) 1179, dass auch Ar. fr. 705 ἀλλ’ ὦ Δελφῶν πλείστας ἀκονῶν / Φοῖβε μαχαίρας / καὶ προδιδάσκειν τοὺς σοὺς προπόλους aus dem Aiolosikōn stammt.</p>
+        </section>
+        <section n="the-two-versions">
+          <head>Die beiden Versionen des Aiolosikōn</head>
+          <p>Aus Ar. test. 2a,13 [= Αἰολοσίκων test. ii], Choerob. in Heph. ench. 9 p. 235 Consbr. [= Αἰολοσίκων test. iii] und Athen. 9,372a [Zitatkontext von fr. 5] ist bekannt, dass es zwei Versionen des Aiolosikōn gab. Eher als um ein vollkommen neues Stück dürfte es sich beim zweiten Aiolosikōn um eine überarbeitete Version derselben Komödie handeln, da der Titel Αἰολοσίκων weniger Spielraum lässt für zwei völlig verschiedene Komödien. Eine Aufteilung der Fragmente auf die beiden Versionen ist kaum möglich. Allerdings wird fr. 5 von Athenaios explizit dem zweiten Aiolosikōn zugewiesen.</p>
+          <p>Eine zweite Version des Aiolosikōn liefert auch eine plausible Erklärung für den Widerspruch zwischen der Aussage des Platonios, dass das Stück keine Chorlieder gehabt habe, und fr. 8–10, die tatsächlich auf einen Chor weisen. So könnten in der zweiten Version die Chorpartien (ähnlich wie im erhaltenen Text des zweiten Plutos) nicht ausgeschrieben, sondern durch den Vermerk χοροῦ ersetzt gewesen sein. Vgl. unten zu test. v.</p>
+        </section>
+        <section n="comedy-date"><head>Datierung</head> <p>Die Datierung des Aiolosikōn steht in stärkerem Maße, als das allgemein erkannt wird, auf wackligen Füßen, da in der entscheidenden Passage im Arg. Ar. Plut. 3 Chantry = Ar. Αἰολοσίκων test. iv nur in der Aldina auch der Αἰολοσίκων erwähnt wird. Wenn es sich hier nicht um eine autoschediastische Ergänzung des Musurus handelt (zu dieser Möglichkeit vgl. unten zu test. iv, Textgestalt), dann geht aus diesem Zeugnis hervor, dass Aristophanes den Aiolosikōn als (neben dem Kōkalos) eines seiner beiden letzten Stücke durch seinen Sohn Araros aufführen ließ. Unter der Prämisse, dass (1) in test. iv die beiden Stücke in chronologischer Reihenfolge genannt werden, (2) Araros seinen Dionysiensieg 387 v. Chr. (IG II² 2318,196 = IRDF 2318,1004 p. 40 Millis / Olson) nicht mit einer eigenen Komödie, sondern mit einem der beiden Stücke seines Vaters errang, und (3) an keinem Agon dieser Zeit mehrere Stücke des Aristophanes gleichzeitig aufgeführt wurden, ergeben sich die folgenden Möglichkeiten:</p><p>1. Aufführung des Kōkalos an den Dionysien 388 v. Chr. (nur möglich, wenn der zweite Plutos von 388 v. Chr. an den Lenäen aufgeführt wurde) und des Aiolosikōn an den Dionysien 387 v. Chr. </p><p>2. Aufführung des Kōkalos an den Lenäen 387 v. Chr. und des Aiolosikōn an den Dionysien 387 v. Chr. (dagegen spricht, dass Aristophanes seinem Sohn als Regieanfänger wohl kaum gleich zwei Stücke in einem Jahr übertragen haben dürfte). </p><p>3. Aufführung des Kōkalos an den Dionysien 387 v. Chr. und des Aiolosikōn an einem der beiden Feste 386 v. Chr. oder noch später. Das ist die wahrscheinlichste Möglichkeit, und zugleich auch die communis opinio. </p><p>Der terminus ante quem zumindest für die Entstehung des Stücks (wenn auch nicht zwangsläufig für die Aufführung) ist dagegen Aristophanes’ Tod, der allerdings nicht genauer datierbar ist (meist wird er, allerdings allein auf Grundlage der spätesten Aufführungsdaten, auf etwa Mitte der 380er Jahre datiert).</p><p>Aber bezieht sich diese Datierung auf den ersten oder den zweiten Aio­losikōn? In der Regel wird letzteres angenommen (nicht zuletzt, weil es sich nach test. iv wahrscheinlich um Aristophanes’ letztes Stück überhaupt handelte). Die Datierung des ersten Aiolosikōn müsste in diesem Fall offenbleiben: Die genaueren Datierungsversuche von Geißler 1925, 76–7 (noch im 5. Jh., da dieselben Verse wie in fr. 1 auch im Gērytadēs standen, den Geißler 1925, 62 auf 409–8 v. Chr. datiert) und Edmonds I (1957) 573 Anm. b (kurz nach 402 v. Chr., dem von Edmonds angenommenen Aufführungsdatum des Gērytadēs) sind ganz unsicher. Unter der Annahme, dass die dem Chor zuweisbaren Fragmente der ersten Version gehören, während die zweite keine Chorpartien enthielt (vgl. oben S. 21), könnte man – wenn fr. 3 auf dieselbe finanzpolitische Maßnahme Bezug nimmt wie Ar. Eccl. 815–22 – die erste Version etwa in die Zeit der Ekklesiazusen (wahrscheinlich 391 v. Chr.), vielleicht etwas früher, datieren, die zweite dagegen auf ca. 386 v. Chr. Dazu würde auch die von Hunter 1979, 34 bemerkte Ähnlichkeit von fr. 9 mit den einfachen äolischen Metren bei Ar. Eccl. 289ff. passen. </p><p>Allerdings kann auch nicht ausgeschlossen werden, dass das von Araros aufgeführte Stück tatsächlich die frühere der beiden Versionen war. Som­mer­stein 2009, 281–3 vermutet plausibel, dass es sich bei den beiden Versionen um zwei unterschiedliche Textfassungen desselben Stücks handelte, von denen die zweite für eine Wiederaufführung („either in Athens or elswhere“) bestimmt war (vgl. oben S. 21-2 Anm. 32). Denkbar wäre aber auch, dass Aristophanes den Aiolosikōn (z. B. weil er nicht an den Erfolg des Kōkalos anknüpfen konnte) nach seiner Aufführung durch Araros einer erneuten Bearbeitung unterzog, die dann vielleicht (ähnlich wie Aristophanes’ zweite Wolken, aber in diesem Fall möglicherweise auch durch Aristophanes’ Tod bedingt) nicht mehr zur Aufführung kam.</p> </section>
+      </comedy-introduction>
+      <comedy-testimonia>
+        <testimonium xml:id="test. 1">
+          <testimonium-number>test. i K.–A. </testimonium-number>
+          <testimonium-text>
+            <testimonium-ref>P.Oxy. 2659 fr. 1 col. I 13–5 = CGFP 18,1–3 = Ar. test. 2c,1–3 K.–A. </testimonium-ref>
+            <testimonium-original-text>
+              <l>Ἀριστο]φάνους </l>
+              <l>Αἰο]λ·ο·σ·ί·κ·ων </l>
+              <l>Ἀμ]φ·ιά·ρ·[ ]ς· </l>
+            </testimonium-original-text>
+            <testimonium-translation-text>
+              <l>Von [Aristo]phanes </l>
+              <l>Aio]losikōn </l>
+              <l>Am]phiar[..]s </l>
+            </testimonium-translation-text>
+          </testimonium-text>
+          <testimonium-commentary>
+            <discussions><biblEntry>Rea 1968, 72</biblEntry><biblEntry>Otranto 2000, 33</biblEntry><biblEntry>Litinas 2014, 159 Anm. 19</biblEntry> </discussions>
+            <section n="context"><head>Kontext</head><p> Ein Papyrus aus dem 2. Jh. n. Chr. mit einer alphabetischen Liste von Dichtern (im erhaltenen Teil mit den Anfangsbuchstaben α–ε) hauptsächlich der Alten Komödie (aufgeführt sind allerdings auch Epicharm und Araros). Vgl. Rea 1968, Otranto 2000, 29–38 und Orth 2014a (FrC 9.2), 37 ad Aristomen. test. *6. Wenn es sich dabei um eine Auflistung der Bestände einer Bibliothek handelt (vgl. Otranto 2000, 37–8), dann liefert der Papyrus wertvolle Hinweise zur Verfügbarkeit vollständiger Texte zahlreicher Komödiendichter noch in der frühen Kaiserzeit. Von Aristophanes werden in dem Katalog insgesamt 24 Titel genannt (wahrscheinlich weitere 9–10 standen in dem nicht erhaltenen Teil zwischen Ἀμφιάρ...ς und Δράματα ἢ Κένταυρος); in den erhaltenen Abschnitten fehlen Λήμνιαι, Νεφέλαι α´, Νῆσοι, Πελαργοί, Πλοῦτος β´ und Ταγηνισταί.</p> </section>
+            <section n="interpretation">
+              <head>Interpretation</head>
+              <p>Für den Aiolosikōn ist in diesem Katalog vor allem interessant, dass hier (anders als im Fall der Wolken und des Plutos, vgl. Z. 13 Νε]φέλαι β´ und Z. 17 Πλ]οῦτ[ο]ς α´) nicht zwei unterschiedliche Versionen bezeugt werden (vgl. dagegen test. ii).</p>
+            </section>
+          </testimonium-commentary>
+        </testimonium>
+        <testimonium n="test. 2">
+          <testimonium-number>test. ii K.–A. </testimonium-number>
+          <testimonium-text>
+            <testimonium-ref>Proleg. de com. (M Rs Vat. 918) XXXa,7–9 p. 142 Koster = Ar. test. 2a,12–3 K.–A. </testimonium-ref>
+            <testimonium-original-text><p>Ἀχαρνῆς, Ἀνάγυρος, Ἀμφιάραος, Αἰολοσίκων β´ (αἴολος εἰκών β´ Vat. 918, αἴολος ἢ εἰκών β´ M Rs), Βαβυλώνιοι, Βάτραχοι</p> </testimonium-original-text>
+            <testimonium-translation-text>
+              <p>Acharner, Anagyros, Amphiaraos, Aiolosikōn zwei (Stücke), Babylōnioi, Frösche </p>
+            </testimonium-translation-text>
+          </testimonium-text>
+          <testimonium-commentary>
+            <discussions><biblEntry>Novati 1879, 462–3</biblEntry><biblEntry>Wilamowitz-Moellendorff 1879, 465</biblEntry><biblEntry>Blum 1977, 263–4</biblEntry>  </discussions>
+            <section n="context"><head>Kontext</head><p>Der Anfang der (weitgehend) alphabetischen Liste von Aristophanes’ Komödien in einem biographischen Eintrag zu Aristophanes, der auch in Sud. α 3932 erhalten ist und auf den Onomatologos des Hesychios von Milet zurückgeführt werden kann (vgl. Wagner 1905, 30–55, Lorenzoni 2012, Orth 2013 (FrC 9.1), 18–20 ad Alc. com. test. 1), letztlich aber wahrscheinlich auf die Katalogisierungsarbeit der in der Bibliothek von Alexandria tätigen Philologen zurückgeht.</p>  <p>In vier Fällen (Αἰολοσίκων, Θεσμοφοριάζουσαι, Νεφέλαι, Πλοῦτος) ist durch die Hinzufügung von β´ angezeigt, dass es zwei Stücke (oder Versionen eines Stücks) mit demselben Titel gab.</p><p>Die alphabetische Reihenfolge ist an mehreren Stellen in Unordnung geraten und betrifft ohnehin nur den ersten Buchstaben. Bei der Anordnung der Stücke mit demselben Anfangsbuchstaben sind vielleicht Reste einer chronologischen Anordnung erkennbar (vgl. Wilamowitz-Moellendorff 1879, Blum 1997, 263–5), was jedenfalls für die Buchstaben α und β zuzutreffen scheint (vorausgesetzt, der Anagyros wurde vor 414 v. Chr. aufgeführt; vgl. S. 233-6). </p><p>In der Suda ist die vollständige hesychianische Titelliste (beide Versionen nennen eine Zahl von 35 Titeln, doch enthält der in Proleg. de com. XXXa erhaltene Katalog – einschließlich der Zweitversionen bzw. gleichnamigen Stücke – 42 Komödien) durch eine Aufzählung der 11 bis heute erhaltenen Stücke ersetzt worden.</p></section>
+            <section n="interpretation"><head>Interpretation</head><p>Der Zusatz β´ zum Titel Αἰολοσίκων bestätigt die schon aus test. iii und dem Zitatkontext von fr. 5 bekannte Existenz von zwei gleichnamigen Stücken des Aristophanes (oder, wahrscheinlicher, zwei verschiedenen Versionen desselben Stücks). Vgl. oben S. 21.</p> </section>
+          </testimonium-commentary>
+        </testimonium>
+        <testimonium xml:id="test. 3">
+          <testimonium-number>test. iii K.–A. </testimonium-number>
+          <testimonium-text>
+            <testimonium-ref>Choerob. in Heph. ench. c. 9 p. 235 Consbr. </testimonium-ref>
+            <testimonium-original-text>Αἰολοσίκων δρᾶμα γέγονε πρῶτον καὶ δεύτερον Ἀριστοφάνους, ὡς καὶ ὁ Πλοῦτος πρῶτον καὶ δεύτερον (...). </testimonium-original-text>
+            <testimonium-translation-text>Es gab ein erstes und zweites Drama Aiolosikōn von Aristophanes, so wie es auch einen ersten und zweiten Plutos gab (...). </testimonium-translation-text>
+          </testimonium-text>
+          <testimonium-commentary>
+            <discussions/>
+            <section n="context"><head>Kontext</head> <p>Kommentar zu Heph. Ench. 9 (Zitatkontext von fr. 9).</p> </section>
+            <section n="interpretation"><head>Interpretation</head> <p>Choiroboskos liefert einen sicheren Hinweis, dass zwei Ver­sionen des Aiolosikōn existierten; vgl. auch Athen. 9,372a (Zitatkontext von fr. 5) Ἀριστοφάνης Αἰολοσίκωνι δευτέρῳ und test. ii. Zu den beiden Versionen des Aiolosikōn vgl. oben S. 21 (und zu ihrer Datierung S. 24–5). </p></section>
+          </testimonium-commentary>
+        </testimonium>
+        <testimonium xml:id="test. 4"><testimonium-number>test. iv K.–A.</testimonium-number>  <testimonium-text><testimonium-ref>Arg. (VERsParAld) Ar. Plut. 3 Chantry </testimonium-ref><testimonium-original-text><p>ἐδιδάχθη ἐπὶ ἄρχοντος Ἀντιπάτρου, ἀνταγωνιζομένου αὐτῷ Νικοχάρους μὲν Λάκωσιν, Ἀριστομένους δὲ Ἀδμήτῳ, Νικοφῶντος δὲ Ἀδώνιδι, Ἀλκαίου δὲ Πασιφάῃ. τελευταίαν δὲ διδάξας (διδάξας Ald: διδάξαι VERsPar) τὴν κωμῳδίαν ταύτην ἐπὶ τῷ ἰδίῳ ὀνόματι, {καὶ} (del. Kassel / Austin) τὸν υἱὸν αὐτοῦ συστῆσαι Ἀραρότα {δι’ αὐτῆς} (del. Bergk: δι’ αὐτοῖς Par: δι’ αὐτῶν Peppmüller) τοῖς θεαταῖς βουλόμενος τὰ ὑπόλοιπα δύο δι’ ἐκείνου καθῆκε,VERsParAld ΚώκαλονVERsAld καὶ Αἰολοσίκωνα.Ald</p></testimonium-original-text><testimonium-translation-text><p>(Das Stück) wurde unter dem Archontat des Antipatros (389 / 8 v. Chr.) auf­geführt, wobei gegen ihn Nikochares mit den Lakōnes, Aristomenes mit dem Admētos, Nikophon mit dem Adōnis und Alkaios mit der Pasiphaē antraten. Nachdem er diese Komödie als letzte unter seinem eigenen Namen aufgeführt hatte, brachte er, da er seinen Sohn Araros dem Publikum bekanntmachen wollte, die übrigen zwei durch jenen auf die Bühne, den Kōkalos und den Aiolosikōn.</p></testimonium-translation-text></testimonium-text><testimonium-commentary><discussions><head>Diskussionen</head> <biblEntry>Dindorf 1829, 80–1 (= Dindorf 1835, 561, Dindorf 1838a, 463, Dindorf 1869, IV 192)</biblEntry><biblEntry>Bergk ap. Meineke II.2 (1840) 940–2</biblEntry><biblEntry>Dindorf 1869, IV 192 Anm.</biblEntry><biblEntry>Rogers 1907, xxiii</biblEntry><biblEntry>Russo 1962, 48–9</biblEntry><biblEntry>Gelzer 1970, 1412,53–13,17</biblEntry><biblEntry>Blum 1977, 83–5</biblEntry><biblEntry>Nesselrath 1990, 192</biblEntry><biblEntry>Brockmann 2003, 332–5</biblEntry><biblEntry>Canfora 2014, 233–41. 397–401 (mit Fig. 2–4)</biblEntry></discussions><section n="context"><head>Kontext</head><p>Eine didaskalische Notiz zu Aristophanes’ Plutos. Vgl. zum ersten Teil des Eintrags Orth 2015 (FrC 9.3), 25 ad Nicoch. test. 6.</p></section><section n="text-critique"><head>Textgestalt</head><p>Der hier abgedruckte (und allgemein akzeptierte) Text des Eintrags beruht auf mehreren kleineren (wenn auch plausiblen) Korrekturen und ist entsprechend unsicher; zu einer radikal abweichenden Lösung vgl. Canfora 2014, 233–41, der für das Ende des Textauszugs folgenden Text herstellt (241): „τελευταίαν δὲ διδάξαι τὴν κωμῳδίαν ταύτην ἐπὶ τῷ ἰδίῳ ὄνοματι καὶ [= etiam] τὸν υἱὸν αὑτοῦ συστῆσαι Ἀραρότα δι’ αὐτῆς τοῖς θεαταῖς βουλόμενος τὰ ὑπόλοιπα [cioè «per il tempo seguente»]. διὰ δ’ ἐκείνου καθῆκε Κώκαλον.“ Canforas Vorschlag ist in verschiedener Hinsicht problematisch: Der Infinitiv διδάξαι hängt in der Luft (eine Abhängigkeit von βουλόμενος ist inhaltlich wenig wahrscheinlich und mit Canforas Deutung von καὶ nicht vereinbar), der logische Zusammenhang von καὶ τὸν υἱὸν αὑτοῦ συστῆσαι Ἀραρότα δι’ αὐτῆς τοῖς θεαταῖς βουλόμενος mit dem Rest des Texts bleibt unklar, und τὰ ὑπόλοιπα in der Bedeutung „für die Zukunft“ ist nicht nur an sich merkwürdig, sondern gerade auch in Verbindung mit der Partizipialkonstruktion mit βουλόμενος (man würde nichts verlieren, wenn man τὰ ὑπόλοιπα ganz ausließe); auch die (in etwas unbeholfener Weise parataktisch angeschlossene) Information zur Aufführung des Kōkalos wirkt in dieser Form schlecht motiviert (man erwartet zumindest einen Hinweis, dass es sich um Aristophanes’ letztes Stück handelt, oder dass dieses Stück nach dem Plutos aufgeführt wurde). Für den Aiolosikōn direkt relevant ist Canforas Diskussion aber insofern, als er – zu Recht – darauf hinweist, dass die Worte καὶ Αἰολοσίκωνα allein in der Aldina zu finden sind. Canfora selbst nimmt (ähnlich wie schon schon Wilson 2007, 270, der im Text ⟨καὶ Αἰολοσίκωνα⟩ druckt und im Apparat dazu bemerkt: „suppl. Musurus“) an, dass es sich dabei um eine „aggiunta congetturale di Marco Musuro“ (233 Anm. 1, und vgl. zur Begründung 237–8 mit Anm. 10) handelt. Tatsächlich spricht aber einiges dafür, dass Musurus als Editor der Aldina gerade für die Scholien des Plutos neben dem Selestadiensis 347 für die scholia recentiora und dem Estensis α.U.5.10 [= E] für die scholia vetera (oder vielleicht wahrscheinlicher anstelle des Estensis) für die alten Scholien eine weitere verlorene Handschrift verwendet hat (vgl. Chantry 1994, xviii–xix. xxi–xxii und Sicherl 1997, 135 mit Anm. 102). Und Canforas Vermutung, dass Musurus den Titel aufgrund von τὰ ὑπόλοιπα δύο im Text des Argumentum und seiner Kenntnis von Platonios’ Traktat [Ar. Αἰολοσίκων test. v], aus dem er erschließen konnte, dass der Aiolosikōn zu den spätesten Stücken des Aristophanes gehörte, ergänzte (Canfora 2014, 236–9), setzt eine ziemlich komplizierte (und riskante) Kombination verschiedener Informationen durch Musurus voraus. Aber auch wenn Canforas Argumente noch nicht beweisen, dass καὶ Αἰολοσίκωνα eine konjekturale Ergänzung des Musurus ist, lässt sich diese Möglichkeit auch nicht sicher ausschließen. Für die Datierung des Stücks hat das die unbequeme Folge, dass das einzige Zeugnis, aus dem sich sichere Schlüsse über die Datierung des Stücks ziehen lassen, keineswegs so sicher überliefert ist wie allgemein angenommen.</p></section><section n="interpretation"><head>Interpretation</head><p>Das Argumentum ist die wichtigste Quelle für die Auffüh­rung und Datierung des Aiolosikōn (vgl. dazu oben S. 22–4, und vgl. auch zur Textgestalt). Die im Text genannte Motivation für die Übertragung der beiden letzten Stücke an Araros ist wahrscheinlich eine einfache Vermutung. Sichere Hinweise hatten die antiken Philologen wohl nur zu dem Datum der Aufführung und dazu, wer dabei als διδάσκαλος fungierte.</p></section></testimonium-commentary></testimonium>
+        <testimonium xml:id="test. 5">
+          <testimonium-number>test. v K.–A. </testimonium-number>
+          <testimonium-text>
+            <testimonium-ref>Platon. Diff. com. (Proleg. de com. I) 22–31 p. 4 Koster </testimonium-ref>
+            <testimonium-original-text><p>τὸν γοῦν Αἰολοσίκωνα Ἀριστοφάνης ἐδίδαξεν, ὃς οὐκ ἔχει τὰ χορικὰ μέλη. τῶν γὰρ χορηγῶν μὴ χειροτονουμένων καὶ τῶν χορευτῶν οὐκ ἐχόντων τὰς τροφὰς ὑπεξῃρέθη τῆς κωμῳδίας τὰ χορικὰ μέλη καὶ τῶν ὑποθέσεων ὁ τύπος μετεβλήθη. σκοποῦ γὰρ ὄντος τῇ ἀρχαίᾳ κωμῳδίᾳ τοῦ σκώπτειν δημαγωγοὺς (δημαγωγοὺς Blaydes 1886, lxi: δήμους codd.) καὶ δικαστὰς καὶ στρατηγούς, παρεὶς ὁ Ἀριστοφάνης τοῦ συνήθως ἀποσκῶψαι διὰ τὸν πολὺν φόβον Αἴολον τὸ δρᾶμα τὸ γραφὲν τοῖς τραγῳδοῖς ὡς κακῶς ἔχον διασύρει. τοιοῦτος οὖν ἐστιν ὁ τῆς μέσης κωμῳδίας τύπος, οἷός ἐστιν ὁ Αἰολοσίκων Ἀριστοφάνους καὶ οἱ Ὀδυσσεῖς Κρατίνου καὶ πλεῖστα τῶν παλαιῶν δραμάτων οὔτε χορικὰ οὔτε παραβάσεις ἔχοντα.</p> </testimonium-original-text>
+            <testimonium-translation-text>
+              <p>Den Aiolosikōn jedenfalls hat Aristophanes auf die Bühne gebracht, der keine Chorlieder hat. Da nämlich keine Choregen gewählt wurden und die Choreuten nicht ihre Verpflegung bekamen, verschwanden aus der Komödie die Chorlieder und der Charakter der Handlungen änderte sich. Während es das Ziel der Alten Komödie war, Demagogen und Richter und Strategen zu verspotten, gab Aristophanes wegen der großen Furcht den gewohnten Spott auf und macht den Aiolos, das von den Tragikern geschriebene Drama, als schlechtes Stück lächerlich. Von dieser Art ist der Charakter der Mittleren Komödie, wie der Aiolosikōn ist und die Odysseis des Kratinos und eine sehr große Zahl der alten Dramen, die weder Chorpartien noch Parabasen haben. </p>
+            </testimonium-translation-text>
+          </testimonium-text>
+          <testimonium-commentary>
+            <discussions>
+              <biblEntry>Grauert 1828, 59–60</biblEntry>
+              <biblEntry>Grysar 1828, 232–6</biblEntry>
+              <biblEntry>Dindorf 1829, 80. 81 (= Dindorf 1835, 561, Dindorf 1838a, 463, Dindorf 1869, IV 192)</biblEntry>
+              <biblEntry>Welcker 1830, 459 (= Welcker 1844, 324)</biblEntry>
+              <biblEntry>Ritter 1830, 795</biblEntry>
+              <biblEntry>Kaibel 1895b, 983, 36–40</biblEntry>
+              <biblEntry>Kaibel 1895a, 75</biblEntry>
+              <biblEntry>Rogers 1907, xxvii Anm. 1</biblEntry>
+              <biblEntry>Händel 1963, 128–30</biblEntry>
+              <biblEntry>Hunter 1979, 34</biblEntry>
+              <biblEntry>Kassel / Austin, PCG III.2 (1984) 33–4. 34</biblEntry>
+              <biblEntry>Bertan 1984</biblEntry>
+              <biblEntry>Degani 1987, 46</biblEntry>
+              <biblEntry>Perusino 1987, 64–72. 75–84</biblEntry>
+              <biblEntry>Perusino 1989, 50–6</biblEntry>
+              <biblEntry>Gil 1989, 51 mit Anm. 1 (= Gil 2010, 79 mit Anm. 14)</biblEntry>
+              <biblEntry>Nesselrath 1990, 33. 53</biblEntry>
+              <biblEntry>Sutton 1990, 81–8. 93</biblEntry>
+              <biblEntry>Wilkins 2000, 342</biblEntry>
+              <biblEntry>Mangidis 2003, 71–2 mit Anm. 228</biblEntry>
+              <biblEntry>Storey 2003, 46–7</biblEntry>
+              <biblEntry>Henderson 2007, 113 Anm. 1 (~ Henderson ap. Rusten 2011, 281 Anm. 9)</biblEntry>
+              <biblEntry>Kyriakidi 2007, 47–8</biblEntry>
+              <biblEntry>Sommerstein 2009, 272–88</biblEntry>
+              <biblEntry>Zimmermann 2011, 780</biblEntry>
+              <biblEntry>Pellegrino 2015, 39. </biblEntry>
+            </discussions>
+            <section n="context">
+              <head>Kontext</head>
+              <p>Aus der (wahrscheinlich in epitomierter Form) in einigen Aristo­phanes-Handschriften überlieferten Abhandlung Περὶ διαφορᾶς κωμῳδιῶν (Proleg. de com. I p. 3–6 Koster) eines sonst unbekannten Platonios, dem in denselben Quellen noch eine weitere Abhandlung, Περὶ διαφορᾶς χαρακτήρων (Proleg. de com. II p. 6–7 Koster), zugeschrieben wird. Vgl. insgesamt Kaibel 1898, 47–9; Perusino 1987, 75–84, Perusino 1989, Nesselrath 1990, 30–4 und Sommerstein 2009, 272–88. </p>
+              <p>Das Thema sind der Unterschied zwischen Alter und Mittlerer Komödie und die Gründe für den Wandel, der mit politischen Druck erklärt wird: Unter der Oligarchie verzichteten die Dichter aus Frucht auf die für die Alte Komödie charakteristischen persönlichen Angriffe gegen Demagogen, Richter und Strategen. Damit wird (ohne dass der Zusammenhang von vornherein klar würde) auch das (vermeintliche) Verschwinden der Chöre in Verbindung gebracht: Die Athener waren aufgrund der neuen politischen Lage nicht mehr bereit, Choregen zu wählen, die für die Kosten der Choreuten aufkamen. Die im Text vertretene Theorie von der Veränderung der Komödie unter politischem Druck ist wahrscheinlich peripatetischen Ursprungs (vgl. Nesselrath 1990, 44–5); in den einzelnen Beispielen finden sich aber zahlreiche Ungenauigkeiten, besonders in der Chronologie (vgl. Nesselrath 1990, 32–3, Storey 2003, 47, Sommerstein 2009, 274–5. 277): So wird die Geschichte von Eupolis’ Tod als Folge von dessen Verspottung in den Baptai mit einer Oligarchie in Verbindung gebracht (13–19), während Kratinos’ Odyssēs zu den spätesten, unter der Oligarchie entstandenen, Stücken der Alten Komödie gezählt werden (49–52). </p>
+            </section>
+            <section n="interpretation">
+              <head>Interpretation</head>
+              <p>Platonios’ Text enthält wertvolle Informationen über den Aiolosikōn. Um diese zur Ermittlung des Inhalts des Stücks heranzuziehen, ist aber zunächst zu überprüfen, wie zuverlässig diese Angaben im einzelnen sind. Zunächst einmal scheint Platonios – ohne genaue Kenntnis der Chronologie (vgl. oben zum Kontext) – auch den Aiolosikōn in den Kontext der oligarchischen Herrschaft zu stellen. Zwar wäre grundsätzlich denkbar, dass die erste der beiden bezeugten Versionen des Stücks (vgl. zu test. iii) tatsächlich aus der Zeit der Herrschaft der Dreißig stammt. Gegen eine solche Erklärung spricht aber, dass in der Aristophanesvita (Proleg. de com. XXVIII) 51–5 (p. 135 Koster) in ganz ähnlicher Weise der besondere, auf die Neue Komödie vorausweisende, Charakter des Kōkalos erklärt wird (ψηφίσματος γὰρ γενομένου χορηγικοῦ, ὥστε μὴ ὀνομαστὶ κωμῳδεῖν τινα, καὶ τῶν χορηγῶν οὐκ ἀντεχόντων πρὸς τὸ χορηγεῖν, καὶ παντάπασιν ἐκλελοιπυίας τῆς ὕλης τῶν κωμῳδιῶν διὰ τούτων αὐτῶν – αἴτιον γὰρ κωμῳδίας τὸ σκώπτειν τινάς – ἔγραψε κωμῳδίαν τινὰ Κώκαλον, ἐν ᾧ εἰσάγει φθορὰν καὶ ἀναγνωρισ­μὸν καὶ τἄλλα πάντα, ἃ ἐζήλωσε Μένανδρος). Es scheint also, dass gerade die beiden letzten, nach 388 v. Chr. aufgeführten, Stücke des Aristophanes als Vorläufer der Mittleren und / oder Neuen Komödie gesehen wurden, und dass die Veränderung in eher unklarer Weise mit dem Verschwinden des ὀνομαστὶ κωμῳδεῖν und der Choregie als Folge der Furcht vor der Oligarchie erklärt wurde. Die politische Begründung für den besonderen Inhalt des Aiolosikōn ist somit als reine Spekulation zu betrachten, aus der sich keine chronologischen Schlüsse ziehen lassen.</p>
+              <p>Eine wichtigere Information liefert Platonios dagegen mit der Nachricht, dass sich der Aiolosikōn gegen eine Tragödie mit dem Titel Αἴολος richtete. Trotz der unbestimmten Formulierung (Αἴολον τὸ δρᾶμα τὸ γραφὲν τοῖς τραγῳδοῖς) handelt es sich dabei nahezu sicher um den Aiolos des Euripides (vgl. oben S. 16). Dass der Aiolosikōn Euripides’ Aiolos aufgreift, wäre wohl auch ohne das Zeugnis des Platonios mit einiger Wahrscheinlichkeit erschließbar gewesen; Platonios liefert dafür aber eine willkommene Bestätigung. Weit weniger sicher ist dagegen die (stärker interpretierende) Aussage, dass der Aiolosikōn gegen den Aiolos gerichtet ist und diesen als schlechte Tragödie lächerlich macht. Hier wird möglicherweise einfach (und vielleicht ohne genauere Kenntnis des Stücks) die Vorstellung zum Ausdruck gebracht, dass sich die früher gegen Zeitgenossen gerichtete aggressive Kritik nun gegen ein neues Ziel, nämlich literarische Werke, richtet (vgl. dazu auch Platonios’ Bemerkungen zu Kratinos’ Odyssēs [51–2 p. 5 Koster]).</p>
+              <p>Problematischer, aber noch interessanter, ist eine dritte Information des Platonios, nämlich dass der Aiolosikōn keine Chorlieder (χορικὰ μέλη) enthalten habe. Diese Nachricht lässt sich nicht ohne weiteres mit den erhaltenen Fragmenten in Einklang bringen: Besonders fr. 9 deutet auf einen aus Frauen bestehenden Chor, dem wahrscheinlich auch fr. 8 und fr. 10 zuzuweisen sind. Perusino 1987, 64–72 und Perusino 1989, 51–2 versucht, den Widerspruch damit aufzulösen, dass im Aiolosikōn (wie im zweiten Plutos) nur die Parodos ausgeschrieben war, während im weiteren Verlauf die Chorlieder nur durch den Hinweis χοροῦ angezeigt waren (vgl. schon Händel 1963, 130). Allerdings gibt es im Text von fr. 8, 9 und 10 keine Elemente, die auf die Parodos weisen (vgl. Sommerstein 2009, 278–9). Andererseits kann die Nachricht aber auch nicht leicht ausschließlich auf eine eigene Spekulation des Platonios zurückgeführt werden. Wenn man nicht annehmen will, dass hier ein Irrtum vorliegt (z. B. durch Verwechslung zweier später Stücke, des Aiolosikōn und des Plutos), dann ließe sich der Widerspruch durch die Annahme auflösen, dass in einer der beiden Versionen des Aiolosikōn die Chorpartien fehlten, also wohl ähnlich wie im Plutos nicht ausgeschrieben waren (vgl. oben S. 21); interessant ist aber auch die Vermutung von Whittaker 1935, 182 mit Anm. 4, der Aiolosikōn habe keine eigentlichen Chorlieder, aber doch rezitierte Chorpassagen in kurzen stichischen Versen enthalten (vgl. auch Hunter 1979, 34). Eine wirklich plausible Erklärung der ganzen Passage des Platonios (einschließlich der späteren Erwähnung von Kratinos’ Odyssēs als Homerparodie ohne Verspottung von Zeitgenossen [51–2 p. 5 Koster]) ergibt sich aber erst mit der Vermutung von Sommerstein 2009, 280–4, dass Platonios in seiner Quelle (oder mehreren Quellen) zwei unterschiedliche Informationen vorfand: (1) der Aiolosikōn und zahlreiche andere Stücke der Alten Komödie hatten keine Chorlieder; (2) der Aiolosikōn, die Odyssēs und zahlreiche weitere Stücke der Alten Komödie waren reine literarische Parodien ohne politische Satire. Durch Vermengung der beiden Informationen könnte er zu dem Schluss gelangt sein, dass auch die Odyssēs des Kratinos keine Chorpartien hatten.</p>
+              <p>Ein leichter Widerspruch zu test. iv ergibt sich aus ἐδίδαξεν, das eigent­lich bedeuten würde, dass Aristophanes das Stück selbst auf die Bühne brachte. Aber (1) kann es sich dabei einfach um eine verkürzte Version einer Formulierung wie ἐδίδαξεν διὰ Ἀραρότα handeln, (2) könnte sich Platonios hier auf die andere Version des Aiolosikōn beziehen, und (3) könnte ἐδίδαξεν hier freier von der Rolle des Dichters, nicht des διδάσκαλος verwendet worden sein (wobei die Wortwahl auch insofern gut motiviert ist, als es in dem Abschnitt tatsächlich um äußere Zwänge bei der Aufführung von Komödien geht). </p>
+            </section>
+          </testimonium-commentary>
+        </testimonium>
+        <testimonium xml:id="test. 6">
+          <testimonium-number>test. vi K.–A. </testimonium-number>
+          <testimonium-text>
+            <testimonium-ref>Arcad. (codd. ABC) p. 11,14–22 Schmidt </testimonium-ref>
+            <testimonium-original-text>
+              <p>τὰ εἰς κων ὑπὲρ δύο συλλαβὰς ὀξύνεται καὶ βαρύνεται καὶ περισπᾶται. τὰ μὲν οὖν διὰ τοῦ ντ κλινόμενα καὶ ο παραληγόμενα περισπᾶται· Ἱπποκῶν Λαοκῶν. τὰ μέντοι μὴ οὕτως καὶ παραληγόμενα τῷ α ὀξύνεται, εἰ ἔστι τοπικώτερα, οἷον χαρακών ἀνθρακών φαρμακών (δαρμακών codd.) (τὸ βαφεῖον)· τοιοῦτο καὶ τὸ γυναικών ἑλικών ὡς τοπικόν· τὸ μέντοι Τριάκων καὶ σαλάκων καὶ Αἰολοσίκων (αἰολεσίκων BC) ὑγιῶς βαρύνεται· οὐ γάρ εἰσι τοπικά.</p>
+            </testimonium-original-text>
+            <testimonium-translation-text>
+              <p>Die (Substantive) auf -kōn mit mehr als zwei Silben haben einen Akut auf der letzten oder vorletzten Silbe oder einen Zirkumflex auf der letzten Silbe. Die auf -nt- deklinierten (Substantive) mit o in der vorletzten Silbe haben einen Zirkumflex auf der letzten Silbe: Hippokōn, Laokōn. Die nicht so deklinierten mit a in der vorletzten Silbe haben dagegen einen Akut auf der letzten Silbe, wenn sie sich eher auf einen Ort beziehen, wie z. B. charakōn, anthrakōn, pharmakōn (die Färberwerkstatt); so auch gynaikōn, Helikōn als Ortsbezeichnung; Triakōn und salakōn („Angeber“) und Aiolosikōn haben dagegen regulär einen Akut auf der vorletzten Silbe, denn sie sind keine Orts­angaben. </p>
+            </testimonium-translation-text>
+          </testimonium-text>
+          <testimonium-commentary>
+            <discussions/>
+            <section n="context">
+              <head>Kontext</head>
+              <p>Ps.-Arkadios’ Über die Akzente ist eine Epitome von Herodians Καθολικὴ προσῳδία (die von Lentz u.a. aus dieser Schrift rekonstruiert wird; vgl. hier GrGr III.1 p. 29,25–30,6); vgl. Dickey 2007, 76.</p>
+            </section>
+            <section n="interpretation"><head>Interpretation</head><p>Das Zeugnis muss sich, da der Titel sicherlich Aristophanes’ eigene Prägung ist, auf den Aiolosikōn beziehen, ist aber ansonsten für unsere Kenntnis des Stücks ohne Bedeutung. Interessant ist es aber als Zeugnis für das Interesse von späteren Grammatikern wie Herodian auch an Komödientiteln (vgl. z. B., ebenfalls mit Bezug auf die Akzentuierung, Steph. Byz. θ 35 τὸ Θεττάλη δρᾶμα Μενάνδρου βαρύνεται παρὰ Ἀττικοῖς, εἰς ἰδιότητα τεθέν, das von Lentz [GrGr III.1 p. 321,12–13] ebenfalls Herodians Καθολικὴ προσῳδία zugewiesen wird).</p>  </section>
+          </testimonium-commentary>
+        </testimonium>
+        <testimonium xml:id="test. 7">
+          <testimonium-number>test. {vii}K.–A. </testimonium-number>
+          <testimonium-text>
+            <testimonium-ref>Liban. Epist. 506,4 (vol. X p. 482,12–15 Förster) </testimonium-ref>
+            <testimonium-original-text>
+              <p>εἴποι ἂν οὖν ὁ Δημοσθένης ὅτι ἃ καταράσαιτ’ ἄν τις αὐτῷ, ταῦτα ἐκ προαιρέσεως ποιεῖ. ἐχθρὸς μέν ἐστιν ἀδελφοῦ παιδὶ καὶ τῷ τούτου διδασκάλῳ, φίλος δὲ Παυσανίᾳ τῷ πόρνῳ, καὶ φρονεῖ μὲν μεῖζον Ἀλκιβιάδου, ποιεῖ δὲ τὰ Σίκωνος (Σίμωνος Kassel). ὅ τι δὲ οὗτος ἔδρα, τὸν Ἀριστοφάνην ἐροῦ. </p>
+            </testimonium-original-text>
+            <testimonium-translation-text><p>Demosthenes könnte nun sagen, dass er das, wofür man ihn verfluchen könnte, ganz konsequent und bewusst tut. Er ist dem Sohn seines Bruders und dessen Lehrer feindlich gesinnt, aber mit dem Prostituierten Pausanias befreundet, und er ist eingebildeter als Alkibiades, handelt aber wie Sikon. Was aber dieser getan hat, sollst du Aristophanes fragen</p>  </testimonium-translation-text>
+          </testimonium-text>
+          <testimonium-commentary>
+            <discussions><biblEntry>Toup 1770, 333–4</biblEntry><biblEntry>Toup 1790, I 17 Anm. *</biblEntry><biblEntry>Dindorf 1829, 81 (= Dindorf 1835, 562, Dindorf 1838a, 463, Dindorf 1869, IV 192)</biblEntry><biblEntry>Bergk ap. Meineke II.2 (1840) 943</biblEntry><biblEntry>Förster 1877, 211</biblEntry><biblEntry>Zielinski 1885, 38</biblEntry><biblEntry>Kassel 1978, 56–8 (= Kassel 1991, 266–8)</biblEntry><biblEntry>Kassel / Austin, PCG III.2 (1984) 34</biblEntry><biblEntry>Mangidis 2003, 72</biblEntry> </discussions>
+            <section n="context"><head>Kontext</head><p>Aus einem Brief des Libanios an seinen Schüler Andronikos (in der Edition von Förster auf 356 / 7 n. Chr. datiert). Es geht um Andronikos’ Onkel, der von Seeck 1906, 73 mit einem Nebridius identifiziert wird, der zu dieser Zeit Comes Orientis war; der im Text genannte „Sohn seines Bruders“ ist Andronikos, „dessen Lehrer“ Libanios.</p> </section>
+            <section n="interpretation">
+              <head>Interpretation</head>
+              <p> Der hier abgedruckte Textauszug nimmt besonders auf zwei klassische Texte Bezug (zu φρονεῖ ... μείζων Ἀλκιβιάδου vgl. die von Kassel 1978, 58 Anm. 29 gesammelten Stellen). Der erste ist (wie schon in Försters Edition angegeben) Dem. Ep. 4,10–11 (ἃ γὰρ ἂν καταράσαιτό τις αὐτῷ, ταῦτ’ ἐκ προαιρέσεως ποιεῖ. ἐχθρὸς μέν ἐστι τοῖς γονεῦσι, φίλος δὲ Παυσανίᾳ τῷ πόρνῳ· καὶ θρασύνεται μὲν ὡς ἀνήρ, πάσχει δὲ ὡς γυνή· καὶ τοῦ μὲν πατρός ἐστι κρείττων, τῶν δ’ αἰσχρῶν ἥττων· [...]). Der Hinweis auf Aristophanes bezieht sich dagegen, wie Kassel 1978, 56–8 (= Kassel 1991, 266–8) gezeigt hat, nicht auf den Aiolosikōn, sondern auf die Erwähnung eines Σίμων bei Ar. Nub. 351 τί γὰρ ἢν ἅρπαγα τῶν δημοσίων κατίδωσι Σίμωνα, τί δρῶσιν; (vgl. das Sprichwort Σίμωνος ἁρπακτικώτερος [Sud. σ 447]). Der Fehler in den Handschriften (Verwechslung von μ und κ in Minuskelschrift) ist leicht erklärbar, und über Andronikos’ Onkel sagt Libanios in einem weiteren Brief an Andronikos (ebenfalls auf 356 / 7 n. Chr. datiert), dass dieser seinen Reichtum durch ἁρπάζειν erworben habe (Ep. 515,1. 4 vol. X p. 489,10. 490,6 Förster: (1) ... δύναται δὲ πολλὰ καὶ πλουτεῖ· τὸ δ’ ὅθεν, ἴστε ... (4) ... ὥστε πανταχόθεν ἁρπάζειν). Libanios zeigt auch sonst eine besondere Vorliebe für Aristophanes’ Wolken, während es andererseits keinen Hinweis gibt, dass er auch noch heute verlorene Komödien des Aristophanes gekannt hat. Der Brief des Libanios kann somit weder als Zeugnis für eine direkte Kenntnis des Aiolosikōn im 4. Jh. n. Chr. noch als Hinweis auf die Charakterisierung des Titelhelden in diesem Stück verwendet werden. </p>
+            </section>
+          </testimonium-commentary>
+        </testimonium>
+      </comedy-testimonia>
+      <comedy-fragments>
+        <fragment type="independant">
+          <fragment-number>fr. 1 K.–A. (1 K.) </fragment-number>
+          <fragment-text>
+            <fr-original>
+              <text>
+                <l>ἥκω Θεαρίωνος ἀρτοπώλιον</l>
+                <l>λιπών, ἵν’ ἐστὶ κριβάνων ἑδώλια </l>
+              </text>
+              <apparatus>
+                <app-entry>1 θεαρίων· ὃς A, corr. Toup 1760, 7</app-entry>
+                <app-entry>2 ἑδώδια A, corr. Casaubon 1600, 136,16–17</app-entry>
+              </apparatus>
+            </fr-original>
+            <fr-translation>
+              <l>Ich bin gekommen, nachdem ich den Brotladen des Thearion </l>
+              <l>verlassen habe, wo die Sitze der kribana sind </l>
+            </fr-translation>
+          </fragment-text>
+          <citation-context>
+            <ct>
+              <ct-ref>Athen. 3,112d–e </ct-ref>
+              <ct-text>
+                <ct-original><p>τῶν δ’ Ἀττικῶν ἄρτων ὡς διαφόρων μνημονεύει καὶ Ἀντιφάνης ἐν Ὀμφάλη οὕτως· ... (Antiph. fr. 174). οὗτός ἐστι Θεαρίων ὁ ἀρτοποιός, οὗ μνημονεύει Πλάτων ἐν Γοργίᾳ συγκαταλέγων αὐτῷ καὶ Μίκαιθον οὕτως γράφων· ... (518b). καὶ Ἀριστοφάνης ἐν Γηρυτάδῃ (fr. 177) καὶ Αἰολοσίκωνι διὰ τούτων· ἥκω ― ἑδώδια.</p>  </ct-original>
+                <ct-translation>
+                  <p>Die attischen Brote erwähnt als besonders gut auch Antiphanes in der Omphalē auf diese Weise: ... (Antiph. fr. 174, mit Erwähnung des Thearion). Dieser ist Thearion der Brotmacher, den Platon im Gorgias erwähnt, wobei er mit ihm auch Mikaithos aufzählt, indem er folgendes schreibt: ... (518b). Und Aristophanes im Gērytadēs (fr. 177) und Aiolosikōn mit folgenden Worten: „Ich bin gekommen ― sind“.</p>
+                </ct-translation>
+              </ct-text>
+            </ct>
+          </citation-context>
+          <metrum><mtr-declaration><p>iambische Trimeter</p></mtr-declaration>  <mtr-schema><l>llkl klk|l klkl </l><l>klkl a|lkl klkl </l></mtr-schema></metrum>
+          <discussions><biblEntry>Casaubon 1600, 136,15–21 (~ Casaubon 1621, 217,33–46);</biblEntry><biblEntry>Toup  1760, 6–7 (~ Toup 1790, I 15–6);</biblEntry><biblEntry>Toup 1767, 132–3 (~ Toup 1790, II 566)</biblEntry><biblEntry>Valckenaer 1755, 75</biblEntry><biblEntry>Brunck 1783, III 230</biblEntry><biblEntry>Porson 1797, 3 ad Eur. Hec. 1</biblEntry><biblEntry>Schweighaeuser, Animadv. II (1802) 286–7</biblEntry><biblEntry>Porson 1812, 66</biblEntry><biblEntry>Grauert 1828, 500</biblEntry><biblEntry>Dindorf 1829, 85. 110–1 (~ Dindorf 1835, 565. 588, Dindorf 1838a, 464. 474, Dindorf 1869, IV 193. 199)</biblEntry><biblEntry>Fritzsche 1836, 19–20</biblEntry><biblEntry>Bergk ap. Meineke II.2 (1840) 946–7</biblEntry><biblEntry>Bothe 1844b, 11–2</biblEntry><biblEntry>Holden 1868, 705</biblEntry><biblEntry>van de Sande Bakhuyzen 1877, 194</biblEntry><biblEntry>Kock I (1880) 392–3</biblEntry><biblEntry>Blaydes 1885, 4. 75–7</biblEntry><biblEntry>Kock III (1888) 720</biblEntry><biblEntry>Blaydes 1896, 54. 297</biblEntry><biblEntry>Rogers 1907, xxv mit Anm. 1</biblEntry><biblEntry>Kann 1909, 12–3</biblEntry><biblEntry>Schmid 1946, 194 Anm. 7. 221 (auch Anm. 4)</biblEntry><biblEntry>Webster 1953, 18 (= Webster 1970, 18)</biblEntry><biblEntry>Edmonds 1957, 573 Anm. c</biblEntry><biblEntry>Giannini 1960, 149–50</biblEntry><biblEntry>Rau 1967, 209</biblEntry><biblEntry>Kassel / Austin, PCG III.2 (1984) 35. 112–3 (ad fr. 177)</biblEntry><biblEntry>Degani 1987, 47</biblEntry><biblEntry>Perusino 1987, 62. 63</biblEntry><biblEntry>Gil 1989, 52 (= Gil 2010, 79)</biblEntry><biblEntry>Nesselrath 1990, 235–6 Anm. 155</biblEntry><biblEntry>Sutton 1990, 93</biblEntry><biblEntry>Mastromarco 1994a, 81</biblEntry><biblEntry>Dalby 1996, 109 mit 244 Anm. 52</biblEntry><biblEntry>Carrière 2000, 202</biblEntry><biblEntry>Wilkins 2000, 168. 311 Anm. 201</biblEntry><biblEntry>E. Greselin, in: Ateneo I (2001) 297 Anm. 2</biblEntry><biblEntry>Mangidis 2003, 72–3</biblEntry><biblEntry>Zimmermann 2011, 780</biblEntry><biblEntry>Wright 2012, 129 mit 202 Anm. 108. 163</biblEntry>Pellegrino 2015, 40. </discussions>
+          <section type="citation context">
+            <head>Zitatkontext</head>
+            <p>Diskussion verschiedener Brotsorten durch Pontianos, einen der Teilnehmer des Gastmahls (Athen. 3,109b–13a; es schließen sich 113a–6a weitere Bemerkungen zu demselben Thema von Arrianos, Kynulkos und Galen an). In einem Teil von Pontianos’ Diskussion geht es um die Herkunft der besten Brotsorten (111f–2f); dabei wird als Beleg für die – zuvor schon 112b in einem Zitat aus Archestratos von Gela (fr. 5,15–16 Olson-Sens) erwähnte – Qualität des attischen Brots Antiph. fr. 174 zitiert, wo in Vers 5–7 von Broten des Thearion die Rede ist. Das ist der Ausgangspunkt für einen kurzen Exkurs zu Thearion, mit Belegen aus Platon und Aristophanes.</p>
+            <p>Aus der Formulierung des Athenaios scheint hervorzugehen, dass die­selben Verse sowohl im Gērytadēs als auch im Aiolosikōn standen (vgl. Bergk ap. Meineke II.2 (1840) 946, Kann 1909, 12–3). Dass im Gērytadēs dieselbe Stelle der Hekabe, die in diesen Versen parodiert wird (vgl. unten zur Interpretation), auch noch an anderer Stelle aufgegriffen wird, spricht – pace Kaibel ap. Kassel / Austin ad Ar. fr. 177 – eher für als gegen diese Annahme, da an beiden Stellen jeweils unterschiedliche Abschnitte des Vorbilds übernommen werden, ohne dass es zu irgendwelchen Überschneidungen kommt. Nicht auszuschließen ist aber auch, dass sich das wörtliche Zitat hier nur auf das zweite der genannten Stücke, den Aiolosikōn bezieht. Vgl. mit weiterer Literatur Kassel / Austin, PCG III.2 (1984) 112–3.</p>
+          </section>
+          <section type="text-critique">
+            <head>Textgestalt</head>
+            <p>Der Text ist, abgesehen von zwei banalen und leicht korrigierbaren Fehlern (durch falsche Worttrennung und Verwechslung von Λ und Δ in Majuskelschrift), gut überliefert. </p>
+          </section>
+          <section type="interpretation">
+            <head>Interpretation</head>
+            <p>Wie schon Toup 1760, 7 erkannt hat, eine Parodie von Eur. Hec. 1–2 (wo der Schatten des Polydoros als Prologsprecher auftritt) ἥκω νεκρῶν κευθμῶνα καὶ σκότου πύλας / λιπών, ἵν’ Ἅιδης χωρὶς ᾤκισται θεῶν, wobei Aristophanes jeweils den Anfang von Vers 1 (ἥκω) und Vers 2 (λιπών, ἵν’) unverändert übernimmt und dieses Gerüst dann mit einem neuen, ganz untragischen Inhalt, einer Beschreibung der Bäckerei des Thearion (vgl. unten zum Lemma), füllt. Die hier nicht übernommenen Teile von Vers 1 greift Aristophanes dagegen in fr. 156 aus dem Gērytadēs auf (Vers 1–2 καὶ τίς νεκρῶν κευθμῶνα καὶ σκότου πύλας / ἔτλη κατελθεῖν;).</p>
+            <p>Der Sprecher könnte z. B. Sikon selbst sein, oder ein Sklave, der gerade Brot gekauft hat, oder ein Gott (vielleicht Herakles, vgl. fr. 11), und die Verse könnten ebenso gut (wie in der Hekabe) zu Beginn des Prologs gestanden haben wie an einer anderen Stelle, an der eine Figur auf die Bühne tritt. Im euripideischen Vorbild folgt direkt zu Beginn des dritten Verses die Nennung des Namens des Sprechers (Πολύδωρος).</p>
+            <p>Perusino 1987, 63 bemerkt, dass, wenn der Titelheld Sikon schon bei Aristophanes der Erfinder der Kochkunst ist, dieser hier mit einem weiteren Erfinder, dem Bäcker Thearion zusammengebracht wird (vgl. unten zu 1 Θεαρίωνος ἀρτοπώλιον). </p>
+            <p>Wenn dieselben Verse sowohl im Gērytadēs als auch im Aiolosikōn standen (vgl. oben zum Zitatkontext), dann handelt es sich hier (wie schon Bergk ap. Meineke II.2 (1840) 946 bemerkt) zugleich auch um eine Art Selbstzitat des Aristophanes (vgl. mit weiteren Beispielen Kann 1909, 11–4).</p>
+            <p><lemma>1 ἥκω</lemma> Häufig bei Auftritten von Personen in der Tragödie (schon Aesch. Sept. 40, Cho. 838), und besonders bei Euripides (z. B. Alc. 614, Andr. 309. 1232, Hec. 1, Suppl. 114. 634. 1035, HF. 1163, Tro. 1, Or. 1554, Bacch. 1. 661). In der Komödie vgl. z. B. Ar. Av. 992. 1022, Stratt. fr. 46,3 (paratragisch), Antiph. fr. 204,1. </p>
+            <p><lemma>Θεαρίωνος ἀρτοπώλιον</lemma> Unsere Kenntnis des Bäckers Thearion (vgl. Dalby 1996, 109 mit 244 Anm. 52) beruht allein auf den bei Athenaios genannten Belegen: Plat. Gorg. 518b nennt Thearion als einen ἀρτοκόπος, der in irgendeiner Weise aufsehenerregende Brote herstellte (ἄρτους θαυμαστοὺς παρασκευάζων), und aus Antiph. fr. 174,3–7 ὁρῶν μὲν ἄρτους λευκοσωμάτους ἰπνόν / καταμπέχοντας ἐν πυκναῖς διεξόδοις, / ὁρῶν δὲ μορφὴν κριβάνοις ἠλλαγμένους, / μίμημα χειρὸς Ἀττικῆς, οὓς δημόταις / Θεαρίων ἔδειξεν scheint hervorzugehen, dass er eine bestimmte Art von Broten bzw. von deren Produktion erfand. Sowohl bei Antiphanes als auch bei Aristophanes wird er mit dem κρίβανος (einer Art Ofen), und damit indirekt dem ἄρτος κριβανίτης in Verbindung gebracht (vgl. unten zu 2 κριβάνων). </p>
+            <p>Zu ἀρτοπώλιον vgl. Ar. Ran. 112 (wo Dionysos Herakles vor der Reise in die Unterwelt unter anderem nach den ἀρτοπώλια fragt); Ehrenberg 1951, 126–7.</p>
+            <p><lemma>2 λιπών</lemma> Zusammen mit ἥκω (oder Komposita davon) auch bei Eur. Andr. 1232 (ἥκω Θέτις λιποῦσα Νηρέως δόμους), Tro. 1 (ἥκω λιπὼν Αἰγαῖον ἁλμυρὸν βάθος), Bacch. 661 (ἥκω Κιθαιρῶν’ ἐκλιπών), fr. 472,4 (ἥκω ζαθεοὺς ναοὺς προλιπών). 1084 Kn. (ἥκω περίκλυστον προλιποῦσ’ Ἀκροκόρινθον, / ἱερὸν ὄχθον, πόλιν Ἀφροδίτας). </p>
+            <p><lemma>κριβάνων</lemma> Zum κρίβανος, einer Art Backofen, und dem in diesem hergestellten Brot (ἄρτος κριβανίτης) vgl. oben zu Θεαρίωνος ἀρτοπώλιον, und (mit weiterer Literatur) Orth 2013 (FrC 9.1), 205–6 ad Amips. fr. 5.</p>
+            <p><lemma>ἑδώλια</lemma> Das hauptsächlich (wie hier) im Plural verwendete Wort (in der Komödie nur hier bezeugt) gehört in der Bedeutung „Sitz“, „Wohnung“ zur Sprache der Tragödie (vgl. am Trimeterende Aesch. Cho. 71 [lyr. iamb. trim.] νυμφικῶν ἑδωλίων, Soph. El. 1393 ἀρχαιόπλουτα πατρὸς εἰς ἑδώλια, fr. 566,1 R. τὰ Τροίας ... ἑδώλια, Eur. fr. 223,123 Kn. δένδρη τε μητρὸς ἐκλιπόνθ’ ἑδώλια, und daneben Aesch. Sept. 454–5 [lyr.] πωλικῶν ... / ἑδωλίων).</p>
+          </section>
+        </fragment>
+        <fragment type="independant">
+          <fragment-number>fr. 2 K.–A. (2 K.)</fragment-number>
+          <fragment-text>
+            <fr-original>
+              <text><l>ἀλλ’ ἄνυσον, οὐ μέλλειν ἐχρῆν, ὡς ἀγοράσω</l>  <l>ἁπαξάπανθ’ ὅσ’ ἂν κελεύῃς, ὦ γύναι </l></text>
+              <apparatus>
+                <app-entry>2 ὅσ’ ἂν κελεύῃς Porson ap. Toup: ὅσα (ὅσ’ ἂν Sud. E) κελεύεις codd.: ὁπόσα κελεύεις Toup: ὅσα σὺ κελεύεις Porson 1812: ὅσα ⟨καὶ⟩ κελεύεις Kaibel ap. Kassel / Austin</app-entry>
+              </apparatus>
+            </fr-original>
+            <fr-translation>
+              <l>aber los, man sollte nicht zögern; denn ich werde alles </l>
+              <l>kaufen, was du mir aufträgst, Frau </l>
+            </fr-translation>
+          </fragment-text>
+          <citation-context>
+            <ct>
+              <ct-ref>Phot. (b z) α 225 = Sud. α 304 </ct-ref>
+              <ct-text><ct-original>ἀγοράσω λέγουσι, τὸ δὲ ἀγορῶ βάρβαρον· παραδειγμάτων δὲ μεστὰ πάντα, εἰλήφθω δ’ ὅμως Ἀριστοφάνους ἐξ Αἰολοσίκωνος· ἀλλ’ ― γύναι. καὶ ἀγοράσματα αὐτὰ τὰ ἠγορασμένα.</ct-original><ct-translation>Sie sagen agorasō („ich werde kaufen“), die Form agorō ist dagegen barbarisch. Alles ist voller Beispiele, es soll aber dennoch (die Stelle) des Aristophanes aus dem Aiolosikōn genommen werden: „aber ― Frau“. Und agorasmata (nennen sie) die Dinge selbst, die eingekauft worden sind.</ct-translation>  </ct-text>
+            </ct>
+            <ct>
+              <ct-ref>Synag. B α 198 </ct-ref>
+              <ct-text>
+                <ct-original>ἀγοράσω λέγουσι, τὸ δὲ ἀγορῶ βάρβαρον· Ἀριστοφάνης· ἀλλ’ ― γύναι. καὶ ἀγοράσματα αὐτὰ τὰ ἠγορασμένα.</ct-original>
+                <ct-translation>Sie sagen agorasō, die Form agorō ist dagegen barbarisch. Aristophanes: „aber ― Frau“. Und agorasmata (nennen sie) die Dinge selbst, die eingekauft worden sind. </ct-translation>
+              </ct-text>
+            </ct>
+          </citation-context>
+          <metrum>
+            <mtr-declaration>
+              <p>iambische Trimeter</p>
+            </mtr-declaration>
+            <mtr-schema>
+              <l>lrkl ll|kl lrkl</l>
+              <l>klkl kl|kl llkl</l>
+            </mtr-schema>
+          </metrum>
+          <discussions>
+            <biblEntry>Toup 1760, 5–6 (= Toup 1790, I 14)</biblEntry>
+            <biblEntry>Porson ap. Toup 1790, IV 435</biblEntry>
+            <biblEntry>Porson 1812, 279</biblEntry>
+            <biblEntry>Seidler 1818, 10</biblEntry>
+            <biblEntry>Grauert 1828, 499–500</biblEntry>
+            <biblEntry>Dindorf 1829, 82 (~ Dindorf 1835, 562, Dindorf 1838a, 463)</biblEntry>
+            <biblEntry>Welcker 1830, 459–60 (= Welcker 1844, 324–5)</biblEntry>
+            <biblEntry>Bergk ap. Meineke II.2 (1840) 944</biblEntry>
+            <biblEntry>Bothe 1844b, 10</biblEntry>
+            <biblEntry>Cobet 1856, 183–4 (= Cobet 1858, 163–4)</biblEntry>
+            <biblEntry>Iacobi ap. Meineke V.1 (1857) cxxvi–vii</biblEntry>
+            <biblEntry>Dindorf 1869, IV 193</biblEntry>
+            <biblEntry>Kock I (1880) 393</biblEntry>
+            <biblEntry>Zielinski 1885, 38. 39. 70 (= Zielinski 1931, 48. 49. 74)</biblEntry>
+            <biblEntry>Blaydes 1885, 10</biblEntry>
+            <biblEntry>Rogers 1907, xxiv. xxvi</biblEntry>
+            <biblEntry>Webster 1953, 18 (= Webster 1970, 18)</biblEntry>
+            <biblEntry>Giannini 1960, 150 mit Anm. 137</biblEntry>
+            <biblEntry>Kassel / Austin, PCG III.2 (1984) 35</biblEntry>
+            <biblEntry>Degani 1987, 47</biblEntry>
+            <biblEntry>Perusino 1987, 62. 63</biblEntry>
+            <biblEntry>Gil 1989, 52 (= Gil 2010, 79)</biblEntry>
+            <biblEntry>Mangidis 2003, 72–3</biblEntry>
+            <biblEntry>Zimmermann 2011, 780</biblEntry>
+            <biblEntry>Pellegrino 2015, 40–1</biblEntry>
+          </discussions>
+          <section type="citation context">
+            <p>Die Einträge im Lexikon des Photios, in der Suda und (in teilweise epitomierter Form) in der Synagoge B gehen auf eine gemeinsame Vorlage zurück, die erweiterte Synagoge Σ’ (vgl. Cunningham 2003, 29. 50–4), als deren Quelle hier von Cohn 1884, 823 (aufgrund der Wendung παραδειγμάτων δὲ μεστὰ πάντα) Ailios Dionysios ermittelt wurde (α 26. 27, vgl. Erbse 1950, 99, Cunningham 2003, 53 mit Anm. 112). Eine genauere Untersuchung der Glosse zeigt jedenfalls auffällige Übereinstimmungen mit anderen Ailios Dionysios zuweisbaren Glossen: Zu τὸ δὲ ἀγορῶ βάρβαρον vgl. Ael. Dion. α 64 (τὸ δὲ ἠπήσασθαι παντελῶς βάρβαρον), 151 (τὸ δὲ ἀξιόχρεον βάρβαρον), ο 14 (τὸ δὲ ὀλίον ἢ βάρβαρον ἢ Ἰακόν), zu παραδειγμάτων δὲ μεστὰ πάντα Ael. Dion. α 45 (παραδειγμάτων δὲ πάντα μεστά) und π 1 (παραδείγματα δὲ ... πολλά); sehr häufig ist in den Glossen aus Ailios Dionysios λέγουσι(ν) („sie (d. h. die attischen Autoren) sagen“), vgl. z. B. ε 77, λ 18, λ 19. </p>
+            <p>Vgl. auch Synag. B α 115 ἀγοράσω· οὐκ ἀγορῶ, und zu weiteren Diskus­sionen der sonst nur in lexikographischen Diskussionen bezeugten (und dort durchgehend abgelehnten) Futurform ἀγορῶ Phot. θ 117 = Sud. θ 242 (Oros fr. 79 Alpers), Choerob. in Theod. Alex. Can. GG IV.2 p. 168,31–69,30, Et. magn. p. 536,35–54, Et. Gud. p. 344,40–59 Sturz; Theodoridis 1998, 292–3 (mit weiterer Literatur). Die reguläre attische Futurform ἀγοράσω ist bei Aristophanes auch sonst mehrfach bezeugt (Ar. Lys. 633, Eq. 1373. 1374).</p>
+          </section>
+          <section type="text-critique"><p>Porsons ὅσ’ ἂν κελεύῃς (vgl. unten zum Lemma) ist die beste Lösung für das unmetrische ὅσα κελεύεις (vgl. auch Seidler 1818, 10). Kaibels ὅσα καὶ κελεύεις wäre paläographisch ebenfalls gut erklärbar (saut du même au même, vielleicht zusätzlich begünstigt durch die identische Aussprache von καί und κε-), doch ist καὶ hier inhaltlich weniger gut gerechtfertigt als das verallgemeinernde ὅσα ἄν + Konjunktiv (zu einem konjunktivischen Relativsatz mit ἄν nach ἁπαξάπαντα vergleichen Kassel / Austin Ar. Ran. 161 ἁπαξάπανθ’ ὧν ἂν δέῃ).</p>  </section>
+          <section type="interpretation">
+            <p>Der Sprecher (nicht zwingend ein Mann, vgl. unten zu 2 ὦ γύναι) fordert eine (vielleicht seine, vgl. unten zu ὦ γύναι) Frau auf, ihm nun schnell die Dinge zu nennen, die er besorgen soll (dass sie das noch nicht getan hat, zeigt ὅσ’ ἂν κελεύῃς mit Konjunktiv + ἄν).</p>
+            <p>Grauert 1828, 499–500 vermutet, dass hier ein Sklave („servus ... aliquis“) spricht; allerdings ist die Anrede der eigenen Herrin durch einen Sklaven (oder eine Sklavin) mit (ὦ) γύναι in der Komödie ohne Parallele (vgl. aber im kaiserzeitlichen Roman Charit. 2,10,1, wo Plangon Kallirhoe anspricht [Dickey 1996, 87]). Eher könnte man hier vermuten, dass ein Mann seine Frau anspricht, oder ein Mann eine andere Frau, der er sich gefällig erweisen will (vgl. mit Belegen aus Aristophanes Dickey 1996, 87 Anm. 77 und 78). Eine plausible Möglichkeit wäre, dass der Sprecher hier der Titelheld Sikon (= Aiolos) selbst ist; ist diese Annahme richtig, dann scheint er sich hier (anders als vielleicht in fr. 3, wenn er auch dort der Sprecher ist; und vgl. zu fr. 6) um wirtschaftliche Zwänge keine Sorgen zu machen. Möglich wäre auch, dass hier Vorbereitungen für ein Festmahl getroffen werden (z. B. für eine Hochzeit). </p>
+            <p>1 ἀλλ’ ἄνυσον, οὐ μέλλειν ἐχρῆν Vgl. Ar. Plut. 413 μή νυν διάτριβ’, ἀλλ’ ἅνυε πράττων ἕν γέ τι, 606–7 ἀλλ’ οὐ μέλλειν / χρή σ’, ἀλλ’ ἁνύειν.</p>
+            <p>ἀλλ’ Zu mit ἀλλά eingeleiteten Aufforderungen vgl. Denniston 1950, 13–5.</p>
+            <p>ἄνυσον „beeil dich!“. In der Komödie drücken Formen von ἀνύω / ἁνύω regelmäßig aus, dass etwas schnell geschehen soll, so (1) in Form eines von einem übergeordneten Verb abhängigen Partizips (ἁνύσας: Ar. Ach. 571, Nub. 181, Vesp. 398. 847. 1158. 1162. 1210, Thesm. 255, Ran. 1171, Eccl. 1058, Plut. 229. 349. 648, Anaxil. fr. 36; ἁνύσασα: Ar. Plut. 974, ἁνύσαντε: Ar. Eq. 71, Pac. 872, Lys. 438), oft mit τι (ἁνύσας τι Ar. Eq. 119, Nub. 506. 635. 1253, Vesp. 30. 202, Pac. 275, Lys. 920), (2) als Hauptverb mit einem davon abhängigen Partizip, das dann die eigentliche Handlung ausdrückt (Pherecr. fr. 44,1 ἄνυσόν ποθ’ ἐξελθών, Ar. Vesp. 1168 ἅνυσόν ποθ’ ὑποδησάμενος, Av. 241 ἁνύσατε πετόμενα, Plut. 413 ἀλλ’ ἅνυε πράττων ἕν γέ τι), (3) absolut (hier und Ar. Ran. 606 ἀνύετον, Plut. 607 ἁνύειν, und vgl. auch 649 οὔκουν ἁνύσεις τι;, Ar. Eq. 1107 ἁνύσατέ νυν, ὅ τι περ ποιήσεθ’). </p>
+            <p>οὐ μέλλειν ἐχρῆν Dieselbe Wendung (wie schon Blaydes 1885, 10 bemerkt) auch bei Ar. Av. 364 (dort am Ende eines trochäischen Tetrameters), vgl. Dunbar 1995, 277; zu ἐχρῆν vgl. (neben zahlreichen weiteren Belegen bei Aristophanes) z. B. auch Ar. Eq. 12–3 τί κινυρόμεθ’ ἄλλως; οὐκ ἐχρῆν ζητεῖν τινα / σωτηρίαν νῷν, ἀλλὰ μὴ κλάειν ἔτι;, Av. 1201 λέγειν ἐχρῆν ὁπόθεν ποτ’ εἶ, Thesm. 598–9 ἀλλ’, ὦ γυναῖκες, οὐκ ἐλινύειν ἐχρῆν, / ἀλλὰ (...), Ran. 568 ἀλλ’ ἐχρῆν τι δρᾶν, Plut. 432 ἀλλ’ ἥτις εἶ λέγειν ἐχρῆν σ’ αὐτίκα μάλα, 624. 966, fr. 160 περιάγειν ἐχρῆν τὸν μηχανοποιὸν ὡς τάχιστα τὴν κράδην, 505,1 τί οὖν ποιῶμεν; χλανίδ’ ἐχρῆν λευκὴν λαβεῖν.</p>
+            <p>Zu μέλλω „zögern“ in ähnlichen Aufforderungen zur Eile vgl. auch Ar. Nub. 1298 τί μέλλεις;, Vesp. 403 εἰπέ μοι, τί μέλλομεν κινεῖν ἐκείνην τὴν χολήν, Av. 352 ἀλλὰ μὴ μέλλωμεν ἤδη τώδε τίλλειν καὶ δάκνειν, Lys. 128 ἢ τί μέλλετε;, Thesm. 660–1 μόνον δὲ χρὴ / μὴ βραδύνειν, ὡς ὁ καιρός ἐστι μὴ μέλλειν ἔτι, Ran. 1509 καὶ μὴ μέλλειν, Eccl. 581 ἀλλ’ οὐ μέλλειν, Plut. 255 ὡς ὁ καιρὸς οὐχὶ μέλλειν, 766 μή νυν μέλλ’ ἔτι, 1208 οὐκ ἔτι τοίνυν εἰκὸς μέλλειν οὐδ’ ἡμᾶς. </p>
+            <p>ὡς ἀγοράσω „denn ich werde … kaufen“. ἀγοράσω ist Futur Indikativ (vgl. auch den Zitatkontext), und ὡς entsprechend kausal (vgl. mit Futur Ar. Ach. 392. 655, Eq. 486. 947. 1100. 1107, Nub. 427, Vesp. 892, Pac. 152, Plut. 208), oder vielleicht elliptisch (sc. ἴσθι, vgl. mit Belegen für eine solche Ellipse Olson 2002, 164 ad Ar. Ach. 335). Vgl. auch zum Zitatkontext.</p>
+            <p>2 ἁπαξάπανθ’ Vgl. Orth 2009, 179 ad Stratt. fr. 37,2. Mit einem folgenden Relativsatz vgl. Ar. Ran. 161 ἁπαξάπανθ’ ὧν ἂν δέῃ (zitiert von Kassel / Austin ad l.). </p>
+            <p>ὅσ’ ἂν κελεύῃς Vgl. Ar. Nub. 806–7 ὡς ἕτοιμος ὅδ’ ἐστὶν ἅπαν / τα δρᾶν ὅσ’ ἂν κελεύῃς (auf diese Stelle verweist Porson bei seiner Korrektur).</p>
+            <p>ὦ γύναι Zu der Anrede γύναι, mit der sowohl ein Mann seine oder eine andere Frau als auch eine Frau eine andere Frau ansprechen kann, vgl. Dickey 1996, 86–8 (und zum Vokativ mit ὦ ebd. 199–206); und vgl. auch unten zu fr. 17. Zu ὦ γύναι am Trimeter­ende vgl. Ar. Ach. 1063, Ran. 555, Philyll. fr. 20, Eub. fr. 13,1, Men. Epitr. 866, Her. 71.</p>
+          </section>
+        </fragment>
+        <fragment type="independant">
+          <fragment-number>fr. 3 K.–A. (3 K.) </fragment-number>
+          <fragment-text>
+            <fr-original>
+              <text>
+                <l>ὅπερ ⟨δὲ⟩ λοιπὸν μόνον ⟨ἔτ’⟩ ἦν ἐν τῇ γνάθῳ</l>
+                <l>διώβολον, γεγένητ’ ἐμοὶ δικόλλυβον </l>
+              </text>
+              <apparatus>
+                <app-entry>ὅπερ ⟨δὲ⟩ Bergk</app-entry>
+                <app-entry>⟨ἔτ’⟩ Bergk</app-entry>
+                <app-entry>2 γεγένητ’ ἐμοὶ Dindorf 1829, 82, Fritzsche: γένοιταί μοι cod.</app-entry>
+                <app-entry>δικόλλυβον Bergk (ἤδη κόλλυβον iam Heringa, τρικόλλυβον Fritzsche): δικόλλοικον cod.</app-entry>
+              </apparatus>
+            </fr-original>
+            <fr-translation>
+              <l>Was ⟨aber⟩ allein ⟨noch⟩ übrig war in meiner Backe, </l>
+              <l>ein diōbolon, ist mir zu einem dikollybon geworden </l>
+            </fr-translation>
+          </fragment-text>
+          <citation-context>
+            <ct>
+              <ct-ref>Poll. (codd. F ACL) 9,63 </ct-ref>
+              <ct-text>
+                <ct-original>ἦν δὲ καὶ τριώβολον καὶFACL διώβολον εἴδη νομισμάτων Ἀττικῶν, τὸ μὲνACL διώβολον ἔχον ἐντετυπωμένην (δ. ἔ. ἐ. ACL: ὄβολος ἐτετυπωμένην ἔχων F) γλαῦκα καὶ ἐκ θατέρου πρόσωπον Διός, τὸ δὲ τετρώβολον τὸ μὲν πρόσωπον ὁμοίως, δύο δὲ τὰς γλαῦκας. ἀλλὰ τὸ μὲν τετρώβολον καὶ τριώβολον ἐν τῇ χρήσει τέτριπται· τὸ δὲ διώβολον ὡς ἐπὶ πολὺ λύοντες ἔλεγον, ὡς Δημοσθένης· ... (18,28). ἔστι δὲ καὶ τὸ διώβολονFACL ἐν Αἰολοσίκωνι Ἀριστοφάνους· ὅπερ ― δικόλλοικον.F </ct-original>
+                <ct-translation>Es waren aber auch triōbolon und diōbolon Arten von attischen Münzen, wobei das diōbolon eine eingravierte Eule und auf der anderen Seite ein Gesicht des Zeus hat, das tetrōbolon das Gesicht ebenso, aber zwei Eulen. Aber das tetrōbolon und triōbolon ist im Sprachgebrauch weit verbreitet; das diōbolon haben sie größtenteils (in zwei Wörter) aufgelöst gesagt, wie Demosthenes: ... (18,28). Es gibt aber auch das (Wort) diōbolon im Aiolosikōn des Aristophanes: „Was ― geworden“.</ct-translation>
+              </ct-text>
+            </ct>
+          </citation-context>
+          <metrum>
+            <mtr-declaration><p>iambische Trimeter</p> </mtr-declaration>
+            <mtr-schema>
+              <l>kl〈k〉l l|r〈k〉l llkl </l>
+              <l>klkl rl|kl klkl </l>
+            </mtr-schema>
+          </metrum>
+          <discussions><biblEntry>Hemsterhuis 1706, 1033 (und die dort abgedruckten Diskus­sionen von Jungermann und Kühn)</biblEntry><biblEntry>Heringa 1749, 30–2</biblEntry><biblEntry>Toup 1760, 7–8</biblEntry><biblEntry>Toup 1790, I 16–7</biblEntry><biblEntry>Grauert 1828, 500–1</biblEntry><biblEntry>Dindorf 1829, 82 (~ Dindorf 1835, 562–3, Dindorf 1838a, 463)</biblEntry><biblEntry>Welcker 1830, 460 (= Welcker 1844, 325)</biblEntry><biblEntry>Fritzsche 1832, 3 (= Fritzsche 1836, 17)</biblEntry><biblEntry>Dobree 1833, 249</biblEntry><biblEntry>Bergk ap. Meineke II.2 (1840) 944–5 (vgl. Iacobi ap. Meineke V.1 (1857) cxxvii)</biblEntry><biblEntry>Bothe 1844b, 10–1</biblEntry><biblEntry>Holden 1868, 704</biblEntry><biblEntry>Dindorf 1869, IV 193</biblEntry><biblEntry>Kock I (1880) 393</biblEntry><biblEntry>Blaydes 1885, 6–7</biblEntry><biblEntry>Blaydes 1896, 54. 55 („fr. 32“)</biblEntry><biblEntry>Rogers 1907, xxv</biblEntry><biblEntry>Svoronos 1912, 125–6. 128. 158–9</biblEntry><biblEntry>Reinach 1928, 151–2</biblEntry><biblEntry>Webster 1953, 18 (= Webster 1970, 18)</biblEntry><biblEntry>Giannini 1960, 150 mit Anm. 137</biblEntry><biblEntry>Robinson 1960, 14</biblEntry><biblEntry>Burelli 1973, 780</biblEntry><biblEntry>Giovannini 1975, 186. 187</biblEntry><biblEntry>Kroll 1976, 334. 339–40</biblEntry><biblEntry>Sartori 1983, 74–6</biblEntry><biblEntry>Kassel / Austin, PCG III.2 (1984) 36</biblEntry><biblEntry>Perusino 1987, 63 Anm. 12</biblEntry><biblEntry>Sommerstein 1998, 209 ad Ar. Eccl. 821–2</biblEntry><biblEntry>Wilkins 2000, 59 Anm. 31</biblEntry><biblEntry>Mangidis 2003, 72–3</biblEntry><biblEntry>Henderson 2007, 115 Anm. 3 (~ Henderson ap. Rusten 2011, 282 Anm. 11)</biblEntry><biblEntry>Funaioli 2011, o.S.</biblEntry><biblEntry>Pellegrino 2015, 41</biblEntry> </discussions>
+          <section type="citation context">
+            <p>Diskussion von triōbolon und ähnlichen Bezeichnungen attischer Münzen in einem ausgedehnten Abschnitt über Münzen (Poll. 9,51–93). Pollux’ Beschreibung des diōbolon passt besser auf ein triōbolon (das diōbolon hatte eine Eule mit doppeltem Körper); das von Pollux beschriebene tetrōbolon mit zwei Eulen ist erst für die Zeit von etwa 339–322 v. Chr. nachweisbar (vgl. Head 1911, 376); der auf der anderen Seite abgebildete Kopf ist natürlich der der Athene (nicht, wie bei Pollux angegeben, des Zeus).</p>
+            <p>Anders als von Pollux suggeriert ist τετρώβολον in klassischer Zeit nirgendwo als Bezeichnung einer Münze bezeugt (bei Ar. Pac. 254 bezeichnet das Wort Honig im Wert von vier Obolen); τριώβολον ist dagegen tatsächlich weit verbreitet.</p>
+          </section>
+          <section type="text-critique"><p>Das Fragment ist in der überlieferten Form unmetrisch und teilweise unverständlich. Wie man sich hier nach und nach zu einem immer plausibleren Text vorgetastet hat, lässt sich durch die folgende chronologische Auflistung verschiedener Textvorschläge verdeutlichen (die allesamt noch vor Bethes Edition entstanden sind und in Vers 2 von einer überlieferten Form γένηταί μοι ιδικoλλοικὸν ausgehen):</p><p>ὅπερ λοιπὸν μόνον, / ἐν τῇ γνάθῳ διώβολον γένηταί μοι (Jungermann ap. Hemsterhuis 1706, 1033); </p><p>ὅπερ μόνον μοι λοιπὸν ἦν ἐν τῇ γνάθῳ / διώβολον, ἐγέννησεν ἤδη κόλλυβον (Heringa 1749, 31, der als erster erkennt, dass sich hinter -κόλλοικον -κόλλυβον verbirgt [Fehler durch Iotazismus und Verwechslung von κ und β in Majuskelschrift]); </p><p>ὅπερ ἦν λοιπὸν μόνον / ἐν τῇ γνάθῳ διώβολόν μοι γίνεται (besser wäre die attische Form γίγνεται) (Toup 1760, 8); </p><p>ὅπερ λοιπὸν μόνον / ἐν τῇ γνάθῳ διώβολον γεγένητ’ ἐμοί (Dindorf 1829, 82, in dessen Vorschlag erstmals γεγένητ’ erscheint, das auch in Bergks Text wieder auftaucht);</p><p>al ὅπερ λοιπὸν μόνον ἦν ἐν τῇ γνάθῳ / διώβολον, γεγένητ’ ἐμοὶ τρικόλλυβον (Fritzsche 1832, 3, der – wenn auch mit einer unnötigen Änderung zu τρικόλλυβον [vgl. unten zu 2 δικόλλυβον] – zuerst ein Kompositum mit -κόλλυβον herstellt; Fritzsches Textgestalt in Vers 1 ist näher an der Überlieferung als die von Bergk und durchaus erwägenswert, hat aber den Nachteil, dass so der Vers unvollständig bleibt und zudem weder Penth- noch Hephthemimeres hat); </p><p>ὅπερ ⟨δὲ⟩ λοιπὸν μόνον ⟨ἔτ’⟩ ἦν ἐν τῇ γνάθῳ / διώβολον, γεγένητ’ ἐμοὶ δικόλλυβον (Bergk ap. Meineke II.2 (1840) 944) (der bisher beste Vorschlag, der allgemeine Zustimmung gefunden hat und von Holden 1868, 704, Din­dorf 1869, IV 193, Kock I (1880) 393, Blaydes 1885, 6, Edmonds I (1957) 574, Henderson 2007, 114 und Pellegrino 2015, 41 übernommen und auch hier als Ausgangspunkt für die Diskussion in den Text gesetzt wurde; zu der Ergän­zung von ἔτ’ in Vers 1 vergleichen Kassel / Austin passend Ar. Ran. 73–4 τοῦτο γάρ τοι καὶ μόνον / ἔτ’ ἐστὶ λοιπὸν ἀγαθόν); </p><p>ὅπερ λοιπὸν μόνον, / ἐν τῇ γνάθῳ γένοιτό μοι, δικόλλυβον (Bothe 1844b, 11, der vermutet, dass der Sprecher von seinem letzten Geld Essen kaufen will; Bothes Kritik an Bergks Vorschlag ist ohne größeres Gewicht);</p><p>ὅπερ μόνον δὴ λοιπὸν ἦν ἐν τῇ γνάθῳ / διώβολον βέβηκέ μοι (oder νῦν γέγονέ μοι) δικόλλυβον (Blaydes 1885, 7; entfernt sich – wie der folgende Vorschlag – weiter von der Überlieferung als Bergks Vorschlag, ohne dass das durch andere Vorteile aufgewogen würde) </p><p>... / διώβολον γέγονε τὰ νῦν τρικόλλυβον (Blaydes 1896, 55).</p> </section>
+          <section type="interpretation">
+            <p>Der Sprecher beklagt sich, dass eine kleine Münze, die er als letzten Rest, der ihm von seinem Geld geblieben war, im Mund trug (ein diōbolon), zu einem dikollybon, einer weit wertloseren Münze geworden ist.</p>
+            <p>Damit wird auf den Brauch Bezug genommen, kleinere Münzen unterwegs (z. B. auf dem Weg zu Einkäufen) im Mund zu tragen (vgl. zu 1 ἐν τῇ γνάθῳ). Aber warum wird aus einem diōbolon ein dikollybon? Eine einfache Erklärung wäre, dass der Sprecher den Rest unterwegs ausgegeben hat (so Bergk ap. Meineke II.2 944–5 und Rogers 1907, xxv). Schon Fritzsche 1832, 3 verweist allerdings auf zwei Passagen bei Aristophanes, in denen von kurzzeitig in Athen eingeführten Bronzemünzen die Rede ist (Ran. 725–6 τούτοις τοῖς πονηροῖς χαλκίοις, / χθές τε καὶ πρώην κοπεῖσι, τῷ κακίστῳ κόμματι „(sondern wir benutzen) diese üblen Bronzemünzen, gestern und am Vortag geprägt, die schlechteste Währung“ und Eccl. 815–22 τοὺς χαλκοῦς δ’ ἐκείνους ἡνίκα / ἐψηφισάμεθ’, οὐκ οἶσθα; :: καὶ κακόν γέ μοι / τὸ κόμμ’ ἐγένετ’ ἐκεῖνο. πωλῶν γὰρ βότρυς / μεστὴν ἀπῆρα τὴν γνάθον χαλκῶν ἔχων, / κἄπειτ’ ἐχώρουν εἰς ἀγορὰν ἐπ’ ἄλφιτα· / ἔπειθ’, ὑπέχοντος ἄρτι μου τὸν θύλακον, / ἀνέκραγ’ ὁ κῆρυξ· “μὴ δέχεσθαι μηδένα / χαλκὸν τὸ λοιπόν· ἀργύρῳ γὰρ χρώμεθα.” „und als wir für jene Bronzemünzen gestimmt haben, weißt du das nicht? – Doch, und jene Währung hat mir einen üblen Streich gespielt: Ich verkaufte nämlich Trauben und kam zurück mit meiner Backe voller Bronzemünzen, und dann ging ich auf den Markt, um Gerstenschrot (alphita) zu kaufen: Und dann, als ich schon den Sack darunterhielt, rief der Herold aus: ‘Niemand soll in Zukunft Bronzemünzen nehmen; wir verwenden Silber’“). Dabei handelt es sich vielleicht um mit Silber beschlagene Bronzemünzen (vgl. besonders Kroll 1976, gegen Giovannini 1975, 185–90, der sich aufgrund der literarischen Quellen für reine, nicht mit Silber beschlagene Bronzemünzen ausspricht), die ca. 406 / 5 v. Chr. geprägt und irgendwann zwischen 403 v. Chr. und der Aufführung der Ekklesiazusen (wahrscheinlich 392 / 1 v. Chr.) wieder für ungültig erklärt wurden. Neben Tetradrachmen und Drachmen sind in dieser Form wahrscheinlich auch Dreiobolenstücke nachweisbar (Kroll 1976, 334–5, der es für gut möglich hält, dass auch Münzen im Wert von zwei, einem oder einem halben Obolos geprägt wurden, sich aber nicht erhalten haben). Vgl. zu diesen Münzen auch Sartori 1983, 69–76, Sommerstein 1998, 209 ad Ar. Eccl. 815, Totaro ap. Mastromarco / Totaro 2006, 630 Anm. 109, Schirripa 2008, 123–5).</p>
+            <p>Insbesondere die zitierte Passage aus den Ekklesiazusen legt nahe, dass auch hier die Verwandlung von einem im Mund aufbewahrten διώβολον zu einem δικόλλυβον mit einer Entwertung zu erklären ist. In der Regel denkt man dabei an dieselbe Geldentwertung, von der auch in den Ekklesiazusen die Rede ist (so z. B. Svoronos 1912, 125–6, Reinach 1928, 151–2, Robinson 1960, 14, Burelli 1973, 780, Kroll 1976, 339, Sommerstein 1998, 209 ad Ar. Eccl. 821–2, Funaioli 2011, o.S.). Allerdings lag dieses Ereignis im Jahr der Aufführung des Aiolosikōn (wenn die aus test. iv erschlossene Datierung auf ca. 386 v. Chr. richtig ist) schon einige Jahre zurück (während γεγένητ’, falls richtig korrigiert, eher auf eine gegenwärtige Situation deutet). Ein einfacher Ausweg aus dieser Schwierigkeit wäre eine Zuweisung des Fragments an die erste und ein Bezug der Datierung in test. iv auf die zweite Version des Aiolosikōn. Weniger attraktiv erscheinen alternative Deutungsmöglichkeiten des Fragments, etwa ein Bezug auf eine Preissteigerung, die dazu geführt haben könnte, dass das Zweiobolenstück, das der Sprecher im Mund hat, plötzlich nur noch die Kaufkraft von zwei kollyboi hat. </p>
+            <p>Das Motiv der Armut kehrt in fr. 14 ἀκερματία wieder (wo es gerade um den Mangel selbst kleiner Münzen geht) und wird vielleicht auch in fr. 6 thematisiert. Insbesondere das letztere Fragment lässt sich in interessanter Weise mit der Geschichte von Aiolos verbinden (vgl. unten S. 62–3), und es wäre denkbar, dass Sikon / Aiolos bei Aristophanes tatsächlich (zumindest in einem Teil des Stücks) in finanziellen Schwierigkeiten steckt (vgl. oben S. 17). Eine Zuweisung von fr. 3 an den Titelhelden wäre zumindest plausibel.</p>
+            <p>Dagegen lässt sich über die dramatische Situation und den Kontext der Verse kaum etwas erschließen (zumal dafür wichtige Elemente wie δέ in Vers 1 und das Perfekt γεγένητ’ in Vers 2 nur durch Konjektur hergestellt und entsprechend unsicher sind). Die Vermutung von Blaydes 1885, 7, „Haec dicit senex redux a foro“ ließe sich gut mit der Vermutung kombinieren, dass sich der Sprecher hier über die teuren Preise auf dem Markt beklagt. Aber ebenso gut könnte man an eine allgemeinere Beschreibung der schwierigen wirtschaftlichen Lage des Sprechers, z. B. in einer Prologrede des Sikon, denken.</p>
+            <p>1 ἐν τῇ γνάθῳ Zu dem Brauch, kleinere Münzen in der Backe zu tragen, vgl. die von Kassel / Austin ad l. genannten Ar. Vesp. 609. 788–92, Av. 503, Eccl. 818 (μέστην ... τὴν γνάθον χαλκῶν ἔχων), fr. 48, Alex. fr. 133,7 ἐγκάψας τὸ κέρμ’ εἰς τὴν γνάθον, Thphr. Char. 6,9 καὶ τοὺς τόκους ἀπὸ τοῦ ἐμπολήματος εἰς τὴν γνάθον ἐκλέγειν; MacDowell 1971, 239 ad Ar. Vesp. 791 (der bemerkt: „Greeks had neither pockets nor a sense of oral hygiene“), Arnott 1996, 391 ad Alex. fr. 133,7, Diggle 2004, 264 ad Thphr. Char. 6,9, Totaro ap. Mastromarco / Totaro 2006, 131 Anm. 31, Pellegrino 2015, 41. </p>
+            <p>2 διώβολον Eine Silbermünze mit dem Wert von zwei Obolen (vgl. mit weiterer Literatur Hultsch 1905, K. Regling, in: Schrötter 1970, 143–4); vgl. Theopomp. fr. 56,2, Alex. fr. 191,6, Arist. Ath. pol. 41,3 (wo jeweils von dem Betrag von zwei Obolen, nicht zwangsläufig von einer Münze mit diesem Wert, die Rede ist). </p>
+            <p>γεγένητ’ Zu ähnlichen Verwandlungsmotiven mit γίγνομαι in der Ko­mödie vgl. Orth 2009, 70–1 ad Stratt. fr. 4,1.</p>
+            <p>δικόλλυβον Bergks Korrektur des überlieferten δικόλλοικον (vgl. oben zur Textgestalt); nur hier bezeugt, aber vgl. τρικόλλυβον (s.u.). Das δικόλλυβον ist offenbar eine Münze im Wert von zwei κόλλυβοι, kleinen, nicht vom Staat, sondern von Geldwechslern (κολλυβισταί) geprägten Bronzemünzen (vgl. Robinson 1960, 7–8, Olson 1998, 297), die in der Komödie mehrfach für einen besonders geringen Geldbetrag stehen (Eup. fr. 247,3, Ar. Pac. 1200; vgl. Callim. fr. 191,2 Pf., Poll. 9,72, Phot. κ 891 κόλλυβος· ἐλάχιστον· τὸ γὰρ τρικόλλυβον ἡμίχαλκον); vgl. κολλυβιστής (Lys. fr. 202 Carey, Men. fr. 590). Vgl. zum κόλλυβος z. B. Svoronos 1912, Regling 1921, Reinach 1928, Soutzo 1929, 112, Tod 1945, Robinson 1960, 6–8, und mit weiterer Literatur Pellegrino 2015, 41. </p>
+            <p>Nach Poll. 9,72 verwendeten die Dichter auch τρικόλλυβον als Bezeichnung für eine kleine Münze (Com. adesp. fr. 811), und so wie τρικόλλυβον analog zu dem häufigen τριώβολον gebildet ist, verwandelt sich hier ein διώβολον zu einem δικόλλυβον.</p>
+          </section>
+        </fragment>
+        <fragment type="independant">
+          <fragment-number>fr. 4 K.–A. (4 K.) </fragment-number>
+          <fragment-text>
+            <fr-original>
+              <text>
+                <l>καὶ μήν, τὸ δεῖν’, ἀκροκώλιά γε σοι τέτταρα </l>
+                <l>ἥψησα τακερά </l>
+              </text>
+              <apparatus><app-entry>1 γε Brunck: δέ A: δὴ Bergk: ὅδε Kaibel ap. Kassel / Austin</app-entry> </apparatus>
+            </fr-original>
+            <fr-translation>
+              <l>Und ja, dingsda, vier akrokōlia habe ich dir </l>
+              <l>gekocht, zarte </l>
+            </fr-translation>
+          </fragment-text>
+          <citation-context>
+            <ct>
+              <ct-ref>Athen. 3,95e–f </ct-ref>
+              <ct-original>ἀκροκωλίων δὲ μέμνηται Ἀριστοφάνης Αἰολοσίκωνι· καὶ μὴν ― τακερά. καὶ ἐν Γηρυτάδῃ· ... (fr. 164).</ct-original>
+              <ct-translation>akrokōlia aber erwähnt Aristophanes im Aiolosikōn: „Und ja ― zarte“. Und im Gērytadēs: ... (fr. 164).</ct-translation>
+            </ct>
+          </citation-context>
+          <metrum>
+            <mtr-declaration><p>iambische Trimeter</p> </mtr-declaration>
+            <l>llkl rlkr llkl </l>
+            <l>llkr a|〈lkl alkl〉 </l>
+          </metrum>
+          <discussions>
+            <biblEntry>Casaubon 1600, 114,26–7 (= Casaubon 1621, 182,53–5)</biblEntry>
+            <biblEntry>Brunck 1783, III 216. 163bis</biblEntry>
+            <biblEntry>Schweighaeuser, Animadv. II (1802) 142</biblEntry>
+            <biblEntry>Jacobs 1809, 65–6</biblEntry>
+            <biblEntry>Porson 1811, 14 ad Eur. Or. 79</biblEntry>
+            <biblEntry>Grauert 1828, 500</biblEntry>
+            <biblEntry>Dindorf 1829, 81–2 (~ Dindorf 1835, 562, Dindorf 1838a, 463, Dindorf 1869, IV 192–3)</biblEntry>
+            <biblEntry>Hermann 1829, 1619–20</biblEntry>
+            <biblEntry>Welcker 1830, 460 (= Welcker 1844, 325)</biblEntry>
+            <biblEntry>Bergk ap. Meineke II.2 (1840) 945</biblEntry>
+            <biblEntry>Bothe 1844b, 11</biblEntry>
+            <biblEntry>Iacobi ap. Meineke V.1 (1857) cxxvii (vgl. Iacobi ap. Meineke V.1 (1857) 58–9)</biblEntry>
+            <biblEntry>Holden 1868, 705</biblEntry>
+            <biblEntry>Kock I (1880) 393. 394 (ad fr. 5)</biblEntry>
+            <biblEntry>Blaydes 1885, 3–4</biblEntry>
+            <biblEntry>Nauck 1894, 77</biblEntry>
+            <biblEntry>Blaydes 1896, 54. 297</biblEntry>
+            <biblEntry>Rogers 1907, xxv</biblEntry>
+            <biblEntry>van Leeuwen 1909c, 91 mit Anm. 2</biblEntry>
+            <biblEntry>Giannini 1960, 150 mit Anm. 137</biblEntry>
+            <biblEntry>Moorhouse 1963, 23</biblEntry>
+            <biblEntry>Kassel / Austin, PCG III.2 (1984) 36</biblEntry>
+            <biblEntry>Degani 1987, 47</biblEntry>
+            <biblEntry>Perusino 1987, 62. 63</biblEntry>
+            <biblEntry>Gil 1989, 52</biblEntry>
+            <biblEntry>Wilkins 2000, 20 Anm. 62</biblEntry>
+            <biblEntry>E. Greselin, Ateneo I (2001) 258 Anm. 2</biblEntry>
+            <biblEntry>Zimmermann 2011, 780</biblEntry>
+            <biblEntry>Pellegrino 2015, 41–2</biblEntry>
+          </discussions>
+          <section type="citation context">
+            <p>Im Gastmahl der Deipnosophisten werden Platten mit verschiedenen gekochten Fleischstücken (besonders verschiedenen Extremitäten wie Füßen, Ohren usw.) hereingebracht (Athen. 3,94c); in der anschließenden Diskussion (94c–6e) werden auch die akrokōlia diskutiert (95e–6b), mit zwei Belegen aus Aristophanes, an die sich weitere Komödienstellen anschließen (Antiph. fr. 124, Pherecr. fr. 113,13–14, Alex. fr. 123. 180).</p>
+            <p>Zu antiken Diskussionen über das ἀκροκώλιον vgl. auch Erotian. p. 7,12 Nachm. (der in einer Liste von unnötigen Themen auch die Frage nach der Identität des – offenbar zu seiner Zeit allgemein bekannten – ἀκροκώλιον nennt: οἱ δὲ διὰ τὸ ἄγαν ἀκριβὲς ματαίως ἐξηγούμενοι, τί ἐστι γένυς καὶ τί τὸ πλατὺ καὶ τί τὸ ἀστρονομικὸν καὶ τί τὸ ἀκροκώλιον καὶ στενωπὸς καὶ τὰ ἔτι τούτων φανερώτερα ῥήματα) und Phot. κ 1298 (= Oros fr. 87 Alpers) κωλῆν λεκτέον, οὐχὶ ἀκροκώλιον οὐδὲ κωλεόν. οὕτως Ἀριστοφάνης.</p>
+          </section>
+          <section type="text-critique">
+            <p>Das nach ἀκροκώλια folgende δέ ist an dieser Stelle unverständlich (und nach καὶ μήν wäre ohnehin keine weitere adversative Partikel nötig). Für Bruncks γε spricht, dass auch sonst nach καὶ μὴν sehr oft das direkt folgende Wort mit γε verstärkt wird (Denniston 1950, 352; vgl. auch zu fr. 57), vgl. unten zu fr. 57 καὶ μὴν ... γ’ (und mit etwas größerem Abstand zwischen καὶ μήν und γε Ar. Nub. 1414, Vesp. 538, Thesm. 35, Ran. 907. 1036, Eccl. 523, Plut. 93. 1006. 1198, fr. 504,1). Hier folgt es, lässt man das eingeschobene zögernde τὸ δεῖν’ beiseite, ebenfalls direkt auf das erste Wort des mit καὶ μήν eingeleiteten Satzes.</p>
+          </section>
+          <section type="interpretation">
+            <p>Zusammen mit anderen Fragmenten mit kulinarischer The­matik stützt auch fr. 4 die Vermutung, dass der Titelheld des Stücks, Sikon / Aiolos, ein Koch ist (vgl. oben S. 17–8). Ist diese Annahme richtig, dann spricht einiges dafür, dass Sikon selbst der Sprecher ist (so Bergk ap. Meineke II.2 (1840) 945, Bothe 1844b, 11, Kock I (1880) 394, Rogers 1907, xxv, Giannini 1960, 150 mit Anm. 137, Degani 1987, 47, Perusino 1987, 63, und vgl. auch Blaydes 1885, 4). Suggestive, wenn auch unbestimmte, Hinweise auf die dramatische Situation ergeben sich aus καὶ μὴν ... γε (das besonders gut nach einem Sprecherwechsel passen würde, vgl. unten zu καὶ μήν) und τὸ δεῖν’ (vielleicht ein Hinweis, dass der Sprecher aus irgendeinem Grund zögert oder zu zögern vorgibt, die gekochten ἀκροκώλια zu erwähnen, oder dass er suggerieren will, dass ihm diese Idee ganz spontan einfällt; vgl. auch unten zu τὸ δεῖν’). Wer hier angesprochen wird, bleibt unklar. Eine interessante Möglichkeit ist, dass es sich um dieselbe Frau handelt, die auch in fr. 2 angesprochen wird und der dort versprochen wird, alles zu kaufen, was sie wünscht (in beiden Fällen könnte Sikon zu seiner Frau sprechen).</p>
+            <p>Dindorf 1829, 82 (und vgl. 85) vermutet, dass fr. 4 und 5 aus demselben Kontext stammen (vgl. Dindorf 1829, 82. 85); das ist insbesondere dann unsicher, wenn der Titelheld ein Koch war (denn dann können sich Hinweise auf seine Kunst auf die verschiedensten Szenen des Stücks verteilt haben). Hinzu kommt, dass in fr. 4 von einem fertig gekochten Gericht, in fr. 5 dagegen eher von einer beim Kochen verwendeten Zutat die Rede ist.</p>
+            <p>καὶ μήν Entweder kontrastierend oder – hier vielleicht passender – progressiv an das vorher Gesagte anknüpfend (vgl. Denniston 1950, 351–2). Sehr häufig steht καὶ μὴν direkt nach einem Sprecherwechsel (so in 70 von 77 Belegen in den erhaltenen Komödien des Aristophanes; vgl. auch zu fr. 57). Zu der Verbindung mit γε vgl. zur Textgestalt.</p>
+            <p>τὸ δεῖν’ „The basic sense of ὁ, ἡ, τὸ δεῖνα is to indicate vaguely someone or something the speaker is unable or unwilling to specify precisely“ (Lowe 1973, 101). Unter den vier von Lowe genannten Kategorien für τὸ δεῖνα passt hier besonders die dritte: „The speaker is temporarily unable to find the proper word or words to express what he wants to say und provisionally substitutes τὸ δεῖνα, which may anticipate either a single word (Ar. Lys. 921, 926) or a clause (Ar. Vesp. 524, Av. 648, Men. Dys. 897). In these cases it is appropriate to say that τὸ δεῖνα introduces an idea which has just come into the speaker’s mind and which he cannot immediately formulate. In these cases also τὸ δεῖνα is probably interjectional; the alternative is anacoluthon.“ Vgl. auch van Leeuwen 1909c, 91 ad Ar. Vesp. 524, Moorhouse 1963, Dunbar 1995, 417, Chadwick 1996, 209–10, Olson 1998, 125.</p>
+            <p>Da der Sprecher die ἀκροκώλια bereits gekocht hat, ist die Spontaneität hier vielleicht nur gespielt, oder aber sie betrifft nur die plötzliche Erkenntnis, dass er die ἀκροκώλια an dieser Stelle passend und vorteilhaft erwähnen kann (vgl. auch zu καὶ μήν).</p>
+            <p>1–2 ἀκροκώλια ... / ἥψησα τακερά Vgl. Hp. Mul. 2,169 vol. VIII p. 350,5–6 ἀκροκωλίοισιν ἑφθοῖσι τακεροῖσι, Anaxil. fr. 19,4 ἀκροκώλι’ ἕψειν. Zum ἀκροκώλιον, einem nicht sicher identifizierten Stück (das Wort deutet auf ein „Endstück eines Beins“), wahrscheinlich in den meisten Fällen vom Schwein (so explizit Archipp. fr. 10,1–2, Stratt. fr. 5,1–2, Antiph. fr. 124,1–2, Hp. Vict. 3,75 vol. VI p. 618,3 Littré, 3,82 vol. VI p. 632,5–6 Littré), vgl. Olson / Sens 1999, 129 ad Matr. fr. 1,93–94, Pellegrino 2000, 99 und García Soler 2001, 228–9. Es wurde sehr weich gekocht gegessen: „Durchgekochte“ (δίεφθα) akrokōlia werden erwähnt von Telecl. fr. 51, Pherecr. fr. 113,14, Philox. Leuc. PMG 836,30, Hp. Vict. 3,75. 80 vol. VI p. 618,3. 624,13–4 Littré, „gekochte“ (ἑφθά) z. B. von Matr. fr. 1,94; bei Alex. fr. 180,3 ὁ γόγγρος ἑφθός, τὰ δ’ ἀκροκώλι’ οὐδέπω sind die akrokōlia noch nicht fertig (sie brauchen also im Vergleich zu anderen Speisen eine längere Kochzeit).</p>
+            <p>Zu τακερός „zart“ (von τήκω abgeleitet, vgl. Frisk s. v. τήκω, also „im Mund schmelzend“) vgl. in Bezug auf von Natur aus oder durch Kochen weiches Fleisch oder Gemüse auch Pherecr. fr. 89 τακεροὺς ποιῆσαι τοὺς ἐρεβίνθους αὐτόθι, 113,13 σχελίδες δ’ ὁλόκνημοι ... τακερώταται (es folgt in Vers 14 die Erwähnung von δίεφθ’ ἀκροκώλια), Ar. fr. 372 Λῆμνος κυάμους τρέφουσα τακεροὺς καὶ καλούς, Dionys. com. fr. 3,7 (Anweisungen eines Kochs an seinen Schüler) τακερὰ ποιήσας ταῦτα (sc. τὰ κρέα) καὶ ζέσας σφόδρα, Antiph. fr. 1,4 πνικτὰ τακερὰ μηκάδων μέλη, Crobyl. fr. 6,1 ἡμίκραιρα τακερὰ δέλφακος, Hp. Affect. 56 vol. VI p. 266,13 Littré, Mul. 2,169 vol. VIII p. 350,4–5 λαχάνοισιν ἑφθοῖσι τακεροῖσι (und kurz danach ἀκροκωλίοσιν ἑφθοῖσι τακεροῖσι, s.o.), Dsc. Mat. med. 1,106,2, Galen. De comp. med. vol. XII p. 518,6–8 Kühn, etc. </p>
+            <p>τέτταρα Die Alte Komödie hat eine Vorliebe für solche präzisen Zah­len­angaben, auch an Stellen, wo die genaue Anzahl eigentlich nicht von Bedeutung ist, oder die Zahl überhaupt nur generische Bedeutung hat. Besonders häufig sind τέτταρα und εἴκοσι, die beide bequem ans Trimeterende passen (vgl. Orth 2013 (FrC 9.1), 94 ad Alc. com. fr. 19,2). Mit τέτταρα vgl. z. B. (alle am Trimeterende) Ar. Ach. 2, Pac. 1150 καὶ λαγῷα τέτταρα, Eccl. 1031, Epigen. fr. 5,3, Anaxipp. fr. 6,3, Alex. fr. 286,1, Men. Dysc. 390.</p>
+          </section>
+        </fragment>
+      </comedy-fragments>
+    </comedy>
+  </comic-author>
+</volume>
